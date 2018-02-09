@@ -17,7 +17,9 @@ public class LowLevelSyncUsingWaitNotify {
 					while (list.size() == LIMIT) {
 						lock.wait();						
 					}
+					System.out.println("Adding Value: " + value);
 					list.add(value++);
+					Thread.sleep(1000);
 					lock.notify();
 				}
 			}
@@ -31,6 +33,7 @@ public class LowLevelSyncUsingWaitNotify {
 						lock.wait();
 					}
 					System.out.print("List size is: " + list.size());
+					Thread.sleep(1000);
 					int value = list.removeFirst();
 					System.out.println("; value is: "+ value);
 					lock.notify();
