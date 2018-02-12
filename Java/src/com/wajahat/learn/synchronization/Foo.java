@@ -3,6 +3,7 @@ import java.util.concurrent.Semaphore;
 
 
 public class Foo {
+	private static final int MAX_OPR = 1;
 	Semaphore s_a, s_b, s_c;
 	Foo() {
 		s_a = new Semaphore(1);
@@ -15,7 +16,7 @@ public class Foo {
 			@Override
 			public void run() {
 				int count = 0;
-				while (count != 5) {
+				while (count != MAX_OPR) {
 					System.out.println("Running "+method+" count: "+count++);
 					try {
 						Thread.sleep(1000);

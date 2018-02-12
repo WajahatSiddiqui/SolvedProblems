@@ -52,6 +52,7 @@ public class Runner {
 			lock2.lock();*/
 			acquireLock(lock1, lock2);
 			try {
+				System.out.println("firstThread");
 				Account.transfer(account1, account2, random.nextInt(100));
 			} finally {
 				lock1.unlock();
@@ -67,6 +68,7 @@ public class Runner {
 			lock1.lock();*/
 			acquireLock(lock1, lock2);
 			try {
+				System.out.println("secondThread");
 				Account.transfer(account2, account1, random.nextInt(100));
 			} finally {
 				lock1.unlock();
