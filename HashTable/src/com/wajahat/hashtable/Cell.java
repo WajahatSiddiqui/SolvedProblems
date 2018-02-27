@@ -12,8 +12,13 @@ public class Cell<Key, Value> {
 	public Key getKey() { return key; }
 	public Value getValue() { return value;}
 	
-	public boolean equivalent(Key k) {
-		return k.equals(key);
+	public boolean equivalent(Object k) {
+		if (k == this) return true;
+		if (k == null) return false;
+		if (k.getClass() != this.getClass()) return false;
+		
+		Key that = (Key) k;
+		return that.equals(key);
 	}
 	
 	@Override
