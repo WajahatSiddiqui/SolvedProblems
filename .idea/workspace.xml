@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae7a5e1-9371-4de6-8ab1-fa994989e42f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCacheTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCacheTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/PrintSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/printZigZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SolvedProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SolvedProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/array/PalidromeReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/PalidromeReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/array/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/SubArrayWithGivenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/collections/HashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/stack/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/SpecialStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/counting-ones-sorted-array" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/counting-ones-sorted-array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/findEqualPairs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/findEqualPairs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/funnyStrings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/funnyStrings.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/hour_glass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/hour_glass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/lru_cache.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/toBinary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GfG/toBinary.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/Pangrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/Pangrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/StringManip.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/StringManip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/StringMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/StringMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/SumitString.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/SumitString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/Pangrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/StringManip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/StringMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/SumitString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/array/PalidromeReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/collections/HashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/stack/SpecialStack.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,41 +42,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LruCache.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+      <file leaf-file-name="PrintSpiral.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array/src/PrintSpiral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="109">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LruCacheTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+      <file leaf-file-name="printZigZag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Array/src/printZigZag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcurrentLinkedDeque.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="1056" column="19" selection-start-line="1056" selection-start-column="19" selection-end-line="1056" selection-end-column="19" />
-              <folding>
-                <element signature="e#40782#40783#0" expanded="true" />
-                <element signature="e#40829#40830#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-210">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,6 +86,11 @@
         <option value="$PROJECT_DIR$/HackerRank/src/com/wajahat/solution/graph/RoadsInHackerLand.java" />
         <option value="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" />
         <option value="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" />
+        <option value="$PROJECT_DIR$/Array/src/PalidromeReduce.java" />
+        <option value="$PROJECT_DIR$/Stack/src/SpecialStack.java" />
+        <option value="$PROJECT_DIR$/StringSequence/src/Pangrams.java" />
+        <option value="$PROJECT_DIR$/Array/src/printZigZag.java" />
+        <option value="$PROJECT_DIR$/Array/src/PrintSpiral.java" />
       </list>
     </option>
   </component>
@@ -96,46 +118,40 @@
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-              <item name="circularlinkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="LruCache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="LruCache" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="LruCache" type="462c0819:PsiDirectoryNode" />
+              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lrucache" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,7 +163,16 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/StringSequence/src" />
+      <recent name="$PROJECT_DIR$/Array/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,8 +186,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LruCacheTest">
+  <component name="RunManager" selected="Application.PrintSpiral">
+    <configuration name="ParametricSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParametricSearch" />
+      <module name="SolvedProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PrintSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintSpiral" />
+      <module name="SolvedProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="printZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printZigZag" />
+      <module name="SolvedProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="CircularListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -252,9 +292,15 @@
     <list>
       <item itemvalue="JUnit.LruCacheTest" />
       <item itemvalue="JUnit.CircularListTest" />
+      <item itemvalue="Application.ParametricSearch" />
+      <item itemvalue="Application.printZigZag" />
+      <item itemvalue="Application.PrintSpiral" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintSpiral" />
+        <item itemvalue="Application.printZigZag" />
+        <item itemvalue="Application.ParametricSearch" />
         <item itemvalue="JUnit.LruCacheTest" />
         <item itemvalue="JUnit.CircularListTest" />
       </list>
@@ -315,7 +361,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994812" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -330,7 +376,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/src/printZigZag.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -372,6 +426,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/array/PalidromeReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/collections/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/PalidromeReduce.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Combinatorics/src/ParametricSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -383,20 +478,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+    <entry file="file://$PROJECT_DIR$/GfG/lru_cache.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/SpecialStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/Pangrams.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/SumitString.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/StringManip.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/StringMatching.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/printZigZag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="-210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/PrintSpiral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -417,7 +531,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>

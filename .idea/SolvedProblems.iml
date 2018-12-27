@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StringSequence/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trie/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
