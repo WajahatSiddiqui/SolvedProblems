@@ -38,6 +38,7 @@ public class LruCacheTest {
 		System.out.println("testPut : " + lruCache);
 		lruCache.put(60, "r");
 		lruCache.put(70, "t");
+		System.out.println("testPut : " + lruCache);
 		assertTrue(lruCache.contains(50));
 		assertTrue(lruCache.contains(60));
 		assertTrue(lruCache.contains(70));
@@ -60,6 +61,9 @@ public class LruCacheTest {
 		assertEquals(lruCache.size(), 4);
 
 		System.out.println("testPut : " + lruCache);
+
+		assertEquals(lruCache.get(60), "r");
+		System.out.println("testPut: " + lruCache);
 	}
 	
 	@Test

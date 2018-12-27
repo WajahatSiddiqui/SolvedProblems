@@ -2,397 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae7a5e1-9371-4de6-8ab1-fa994989e42f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/avltree/AvlTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/avltree/AvlTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/avltree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/rbtree/RBTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/rbtree/RBTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalancedTrees/bin/com/wajahat/balancedtrees/rbtree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combinatorics/bin/ParametricSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/Executor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/ExecutorService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/MyThreadPool$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/MyThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/ThreadPoolExecutor$Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/ThreadPoolExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/executorservice/ThreadState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/undoredo/AppData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/undoredo/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/undoredo/Redo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/undoredo/Undo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/bin/com/wajahat/design/undoredo/UndoRedo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/DirectXAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/GraphicalLibrary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/OpenGLAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/Path.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/TvApp/adapter/TvApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/CircularClockBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/CircularFace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/Clock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/ClockApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/ClockBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/DecimalNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/clockapp/builder/LineHands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/Component.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/Compression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/Encryption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/FileApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/FileDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileapp/decorator/FileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileuploadapp/queueing/FileUploadApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/fileuploadapp/queueing/Uploader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/listbox/iterator/ListBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/listbox/iterator/MyCollection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/listbox/iterator/MyCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/listbox/iterator/NewApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/EventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/ExistingFileState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/NewApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/NewFileState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/Notepad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/UIComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/notepadapp/state/UIComposite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/EventCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/FileFoundCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/FolderEnteredCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpattern/searchfile/observer/SearchApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/extensible/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/extensible/DrawApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/extensible/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/extensible/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/CircleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/RectangleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/Triangle$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/drawapp/factory/TriangleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/GuiApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/Panel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/UIComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/guicomp/composite/UIComposite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/multable/MultableApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/multable/ResultCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/multable/Utilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/searchfile/FileFoundCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/searchfile/SearchApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/searchfile/Utility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/AppData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/Div.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/solid/calcapp/Mul.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/ui/MyFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/ui/MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/App11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/HttpServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/MyClass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/MyClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/Servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/TomcatWebServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/bin/com/designpatterns/webserverapp/template/WebServerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/bin/com/wajahat/unionfind/UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/bin/com/wajahat/unionfind/UnionFindTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/bin/com/wajahat/unionfind/WeightedUnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DisjointSets/bin/com/wajahat/unionfind/WeightedUnionFindTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/bin/com/wajahat/learn/array/PalidromeReduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/bin/com/wajahat/learn/array/SubArrayWithGivenSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/bin/com/wajahat/learn/collections/HashMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/bin/com/wajahat/learn/stack/SpecialStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/adjlist/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/adjlist/GraphTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/adjmatrix/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/adjmatrix/GraphTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/problems/Problems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/bin/com/wajahat/graph/problems/ProblemsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/bin/com/strings/Pangrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/bin/com/strings/StringManip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/bin/com/strings/StringMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/bin/com/strings/SumitString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/CountBitsToFlip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/GenerateOTP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Abbreviation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/BeautifulBinaryString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/BetweenTwoSets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/BirthdayCake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Boggle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/BonApetit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/BreakingTheRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/CatalanNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/CeaserCipher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/ConnectedCellInGrid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Connections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Contacts$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Contacts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/CountingSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/CountingSort1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/Cupcakes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/ElectronicShop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/EqualizeArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/FairRations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/FindingMedian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/HackerRankInString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/HappyLadyBugs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/HuffmanTree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/HuffmanTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/HuffmanTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/KthLargest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/KthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/LIS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/LongestIncreasingSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/LuckBalance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MapUtils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MapUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MapUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MarkAndtoy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MinAbsDiff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MinAbsDiffPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MinAvgWaitingTime$Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MinAvgWaitingTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/MissingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/NoPrefixSet$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/NoPrefixSet$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/NoPrefixSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/PickingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/PowerSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/PriyankaAndtoys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/QHeap$Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/QHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/RunningMedian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/SherlockandArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/SockMerchant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/SortBigInteger$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/SortBigInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/StackUsingQueues$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/StackUsingQueues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/TaumAndBday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/TheSalesman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/WeightedUniformString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/graph/BFSShortestDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/graph/EvenTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/graph/FloydCityOfBindingLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/solution/graph/RoadsInHackerLand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/statistics/solution/MeanMedianMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/statistics/solution/Quartiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/statistics/solution/StandardDeviation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/statistics/solution/WeightedMean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/BinaryProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/ClassCancel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/DictioneryAndMaps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/LibraryFine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/MaxHourGlassSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/PrimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/Regex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/TestCases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/abs/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/abs/MyBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/thirtydaysofcode/solution/abs/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/ARaceAgainstTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/AcidNaming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/CutAStrip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/ExpertComputation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/RevisedRussianRoulette.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/bin/com/wajahat/w36/solution/WaysToGiveACheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/bin/com/wajahat/hashtable/Cell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/bin/com/wajahat/hashtable/HashTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/bin/com/wajahat/hashtable/HashTableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/bin/com/wajahat/heap/BinaryHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/bin/com/wajahat/heap/BinaryHeapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/InbuiltFunctionalInterfaceUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/MethodReferenceUsage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/MethodReferenceUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/SampleLambdaUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/SampleUsage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/functional/lamda/SampleUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/swing/LogAnalyzer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/swing/MultiplicationTable$ButtonActions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/swing/MultiplicationTable$ConfirmOnClose.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/swing/MultiplicationTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/swing/TableModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/CountdownLatch$Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/CountdownLatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/Foo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/Foo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/InterruptedThreads$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/InterruptedThreads.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/LowLevelSyncUsingWaitNotify$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/LowLevelSyncUsingWaitNotify$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/LowLevelSyncUsingWaitNotify$Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/LowLevelSyncUsingWaitNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/MultipleLocks$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/MultipleLocks$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/MultipleLocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ProducerConsumer$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ProducerConsumer$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ReentrantLockUsage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ReentrantLockUsage$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ReentrantLockUsage$Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ReentrantLockUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/SynchronizedBlock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/SynchronizedBlock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/SynchronizedBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ThreadPool$Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ThreadPoolNew$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ThreadPoolNew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/ThreadSyncronization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/WaitNotifyUsage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/WaitNotifyUsage$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/WaitNotifyUsage$Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/WaitNotifyUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/deadlock/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/deadlock/BankingApp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/deadlock/BankingApp$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/deadlock/BankingApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/deadlock/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/MainFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/MainFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/MainFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/MainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/SwingApp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/bin/com/wajahat/learn/synchronization/swing/SwingApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHungry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHungry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHungry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHungry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/circularlinkedlist/CircularList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/circularlinkedlist/CircularListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/circularlinkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/doublylinkedlist/DoublyList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/doublylinkedlist/DoublyListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/doublylinkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/list/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/list/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/list/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/list/Problems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/bin/com/wajahat/list/ProblemsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/bin/com/wajahat/lrucache/LruCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LruCache/bin/com/wajahat/lrucache/LruCacheTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/bin/findTextWithDelims.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/bin/com/wajahat/queue/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/bin/com/wajahat/queue/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/bin/com/wajahat/queue/QueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/bin/com/wajahat/stack/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/bin/com/wajahat/stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/bin/com/wajahat/stack/StackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringSequence/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringSequence/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringSequence/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringSequence/bin/Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/balanced/avltree/AvlTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/balanced/avltree/AvlTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/balanced/avltree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/bst/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/bst/BSTTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/bst/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/fenwicktree/FenwickTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/bin/com/wajahat/tree/fenwicktree/FenwickTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/bin/com/wajahat/trie/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/bin/com/wajahat/trie/TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/bin/com/wajahat/trie/TrieTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/bin/com/wajahat/trie/application/Contacts$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/bin/com/wajahat/trie/application/Contacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCacheTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/lrucache/LruCacheTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -403,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LruCache.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LruCache.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+            <state relative-caret-position="135">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -415,17 +28,24 @@
       <file leaf-file-name="LruCacheTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CircularListTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularListTest.java">
+      <file leaf-file-name="ConcurrentLinkedDeque.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="1056" column="19" selection-start-line="1056" selection-start-column="19" selection-end-line="1056" selection-end-column="19" />
+              <folding>
+                <element signature="e#40782#40783#0" expanded="true" />
+                <element signature="e#40829#40830#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -441,6 +61,15 @@
         <entry key="$PROJECT_DIR$/../OCF/Quaduron-master2018/Server/SourceCode" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../Quaduron/Server/SourceCode" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HackerRank/src/com/wajahat/solution/graph/RoadsInHackerLand.java" />
+        <option value="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" />
+        <option value="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -532,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CircularListTest">
+  <component name="RunManager" selected="JUnit.LruCacheTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -626,8 +255,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CircularListTest" />
         <item itemvalue="JUnit.LruCacheTest" />
+        <item itemvalue="JUnit.CircularListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -644,23 +273,44 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="CircularListTest - 2018.12.27 at 12h 09m 37s.xml">
+      <configuration name="CircularListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LruCacheTest - 2018.12.27 at 12h 10m 41s.xml">
+      <configuration name="LruCacheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LruCacheTest - 2018.12.27 at 12h 32m 51s.xml">
+      <configuration name="LruCacheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LruCacheTest - 2018.12.27 at 12h 34m 43s.xml">
+      <configuration name="LruCacheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LruCacheTest - 2018.12.27 at 12h 35m 53s.xml">
+      <configuration name="LruCacheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LruCacheTest - 2018.12.27 at 12h 37m 48s.xml">
+      <configuration name="LruCacheTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3294423" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -680,28 +330,73 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+    <entry file="file://$PROJECT_DIR$/ServiceSupervision/src/main/java/com/samsung/smart/building/support/servicesupervision/SupervisionConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/com/wajahat/solution/NumberGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/com/wajahat/solution/graph/RoadsInHackerLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design/src/com/wajahat/design/executorservice/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-333">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/concurrent/ConcurrentLinkedDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="1056" column="19" selection-start-line="1056" selection-start-column="19" selection-end-line="1056" selection-end-column="19" />
+          <folding>
+            <element signature="e#40782#40783#0" expanded="true" />
+            <element signature="e#40829#40830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -722,7 +417,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -762,6 +457,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
