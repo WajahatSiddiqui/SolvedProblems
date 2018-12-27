@@ -1,6 +1,6 @@
 package com.wajahat.learn.synchronization.swing;
 
-import javax.swing.SwingUtilities;
+import javax.swing.*;
 
 public class SwingApp {
 

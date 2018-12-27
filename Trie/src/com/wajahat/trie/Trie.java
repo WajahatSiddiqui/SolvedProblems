@@ -8,7 +8,7 @@ public class Trie {
 	private TrieNode root;
 	private int size = 0;
 
-	public Trie() {
+	Trie() {
 		root = new TrieNode();
 	}
 
@@ -72,7 +72,7 @@ public class Trie {
 	 * @param prefix - the prefix to be searched
 	 * @return - true if the prefix is found, false otherwise
 	 */
-	public boolean searchPrefix(String prefix) {
+	boolean searchPrefix(String prefix) {
 		TrieNode current = root;
 		int prefixLen = prefix.length();
 		boolean found = true;

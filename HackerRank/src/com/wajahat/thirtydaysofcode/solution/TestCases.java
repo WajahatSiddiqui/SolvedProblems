@@ -1,7 +1,5 @@
 package com.wajahat.thirtydaysofcode.solution;
 
-import java.util.Random;
-
 public class TestCases {
 	
     /*private static int randomInt(int min, int max) {

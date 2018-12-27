@@ -1,7 +1,5 @@
 package com.wajahat.balancedtrees.rbtree;
 
-import com.wajahat.balancedtrees.rbtree.TreeNode;
-
 public class RBTree {
 	
 	private TreeNode root;

@@ -1,9 +1,5 @@
 package com.wajahat.tree.fenwicktree;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
-
 public class FenwickTree {
 	private int [] binaryIndexedTree;
 	

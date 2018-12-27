@@ -2,36 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae7a5e1-9371-4de6-8ab1-fa994989e42f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/src/PrintSpiral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/printZigZag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SolvedProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SolvedProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/array/PalidromeReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/PalidromeReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/array/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/SubArrayWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/collections/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekForGeeks/src/com/wajahat/learn/stack/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/SpecialStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/counting-ones-sorted-array" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/counting-ones-sorted-array.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/findEqualPairs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/findEqualPairs.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/funnyStrings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/funnyStrings.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/hour_glass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/hour_glass.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/lru_cache.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/toBinary" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GfG/toBinary.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/Pangrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/Pangrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/StringManip.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/StringManip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/StringMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/StringMatching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerEarth/src/com/strings/SumitString.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringSequence/src/SumitString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/Pangrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/StringManip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/StringMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/strings/SumitString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/array/PalidromeReduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/collections/HashMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/SolvedProblems/com/wajahat/learn/stack/SpecialStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/closest_common_ancestor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/closest_common_ancestor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/mirror" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/mirror.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,11 +19,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrintSpiral.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintSpiral.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/src/PrintSpiral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="19">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FenwickTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1548">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvlTreeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-423">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvlTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1923">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408">
+              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrieTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrieNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -91,6 +140,9 @@
         <option value="$PROJECT_DIR$/StringSequence/src/Pangrams.java" />
         <option value="$PROJECT_DIR$/Array/src/printZigZag.java" />
         <option value="$PROJECT_DIR$/Array/src/PrintSpiral.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" />
+        <option value="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" />
+        <option value="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" />
       </list>
     </option>
   </component>
@@ -153,6 +205,50 @@
               <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="fenwicktree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Trie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Trie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="Trie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trie" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -186,37 +282,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintSpiral">
-    <configuration name="ParametricSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParametricSearch" />
-      <module name="SolvedProblems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="PrintSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintSpiral" />
+  <component name="RunManager" selected="Application.findTextWithDelims">
+    <configuration name="PalidromeReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalidromeReduce" />
       <module name="SolvedProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="printZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printZigZag" />
+    <configuration name="findTextWithDelims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findTextWithDelims" />
       <module name="SolvedProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CircularListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in SolvedProblems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SolvedProblems" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolvedProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wajahat.circularlinkedlist.*" />
+          <option name="PATTERN" value="com.wajahat.hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.circularlinkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.circularlinkedlist.CircularListTest" />
+      <option name="PACKAGE_NAME" value="com.wajahat.hashtable" />
+      <option name="MAIN_CLASS_NAME" value="com.wajahat.hashtable.HashTableTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -228,20 +336,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LruCacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashTableTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolvedProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wajahat.lrucache.*" />
+          <option name="PATTERN" value="com.wajahat.hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.lrucache" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.lrucache.LruCacheTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.wajahat.hashtable" />
+      <option name="MAIN_CLASS_NAME" value="com.wajahat.hashtable.HashTableTest" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -290,19 +398,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LruCacheTest" />
-      <item itemvalue="JUnit.CircularListTest" />
-      <item itemvalue="Application.ParametricSearch" />
-      <item itemvalue="Application.printZigZag" />
-      <item itemvalue="Application.PrintSpiral" />
+      <item itemvalue="JUnit.All in SolvedProblems" />
+      <item itemvalue="JUnit.HashTableTest" />
+      <item itemvalue="JUnit.HashTableTest.testGet" />
+      <item itemvalue="Application.PalidromeReduce" />
+      <item itemvalue="Application.findTextWithDelims" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintSpiral" />
-        <item itemvalue="Application.printZigZag" />
-        <item itemvalue="Application.ParametricSearch" />
-        <item itemvalue="JUnit.LruCacheTest" />
-        <item itemvalue="JUnit.CircularListTest" />
+        <item itemvalue="Application.findTextWithDelims" />
+        <item itemvalue="Application.PalidromeReduce" />
+        <item itemvalue="JUnit.HashTableTest.testGet" />
+        <item itemvalue="JUnit.HashTableTest" />
+        <item itemvalue="JUnit.All in SolvedProblems" />
       </list>
     </recent_temporary>
   </component>
@@ -338,6 +446,12 @@
     <history-entry file="LruCacheTest - 2018.12.27 at 12h 37m 48s.xml">
       <configuration name="LruCacheTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FenwickTreeTest - 2018.12.27 at 19h 41m 16s.xml">
+      <configuration name="FenwickTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest - 2018.12.27 at 19h 41m 48s.xml">
+      <configuration name="BSTTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
@@ -351,12 +465,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -509,8 +623,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/src/PrintSpiral.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="19">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1548">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1923">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

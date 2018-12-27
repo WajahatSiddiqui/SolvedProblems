@@ -1,8 +1,7 @@
 package com.wajahat.learn.swing;
 
-import java.util.ArrayList;
-
 import javax.swing.table.AbstractTableModel;
+import java.util.ArrayList;
 
 public class TableModel extends AbstractTableModel {
 

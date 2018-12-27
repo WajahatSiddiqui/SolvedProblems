@@ -4,10 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TrieNode {
-	public Map<Character, TrieNode> children;
-	public boolean isCompleteWord;
+	Map<Character, TrieNode> children;
+	boolean isCompleteWord;
 	
-	public TrieNode() {
+	TrieNode() {
 		children = new HashMap<Character, TrieNode>();
 		isCompleteWord = false;
 	}
