@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae7a5e1-9371-4de6-8ab1-fa994989e42f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/closest_common_ancestor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/closest_common_ancestor.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/mirror" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/mirror.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulations/src/BitOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SolvedProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SolvedProblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,92 +15,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrintSpiral.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/src/PrintSpiral.java">
+      <file leaf-file-name="BitOperations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BitManipulations/src/BitOperations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FenwickTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1548">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AvlTreeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTreeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-423">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AvlTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1923">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrieTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrieNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="printZigZag.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array/src/printZigZag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="297">
+              <caret line="74" column="42" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,6 +66,9 @@
         <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/fenwicktree/FenwickTree.java" />
         <option value="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieNode.java" />
         <option value="$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java" />
+        <option value="$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java" />
+        <option value="$PROJECT_DIR$/Array/src/SubArrayWithGivenSum.java" />
+        <option value="$PROJECT_DIR$/BitManipulations/src/BitOperations.java" />
       </list>
     </option>
   </component>
@@ -170,84 +96,13 @@
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="BitManipulations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="BitManipulations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="fenwicktree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Trie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Trie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolvedProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Trie" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,7 +114,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -282,7 +137,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.findTextWithDelims">
+  <component name="RunManager" selected="Application.BitOperations">
+    <configuration name="BitOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitOperations" />
+      <module name="SolvedProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="PalidromeReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalidromeReduce" />
       <module name="SolvedProblems" />
@@ -295,23 +155,6 @@
       <option name="MAIN_CLASS_NAME" value="findTextWithDelims" />
       <module name="SolvedProblems" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="All in SolvedProblems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SolvedProblems" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SolvedProblems" />
@@ -398,19 +241,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in SolvedProblems" />
       <item itemvalue="JUnit.HashTableTest" />
       <item itemvalue="JUnit.HashTableTest.testGet" />
       <item itemvalue="Application.PalidromeReduce" />
       <item itemvalue="Application.findTextWithDelims" />
+      <item itemvalue="Application.BitOperations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BitOperations" />
         <item itemvalue="Application.findTextWithDelims" />
         <item itemvalue="Application.PalidromeReduce" />
         <item itemvalue="JUnit.HashTableTest.testGet" />
         <item itemvalue="JUnit.HashTableTest" />
-        <item itemvalue="JUnit.All in SolvedProblems" />
       </list>
     </recent_temporary>
   </component>
@@ -428,12 +271,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CircularListTest - 2018.12.27 at 12h 09m 37s.xml">
-      <configuration name="CircularListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LruCacheTest - 2018.12.27 at 12h 10m 41s.xml">
-      <configuration name="LruCacheTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LruCacheTest - 2018.12.27 at 12h 32m 51s.xml">
       <configuration name="LruCacheTest" configurationId="JUnit" />
     </history-entry>
@@ -452,6 +289,18 @@
     <history-entry file="BSTTest - 2018.12.27 at 19h 41m 48s.xml">
       <configuration name="BSTTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TrieTest - 2018.12.27 at 19h 43m 12s.xml">
+      <configuration name="TrieTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_SolvedProblems - 2018.12.27 at 19h 43m 32s.xml">
+      <configuration name="All in SolvedProblems" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashTableTest - 2018.12.27 at 19h 45m 29s.xml">
+      <configuration name="HashTableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashTableTest_testGet - 2018.12.27 at 19h 45m 39s.xml">
+      <configuration name="HashTableTest.testGet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
@@ -465,12 +314,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -564,9 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/src/PalidromeReduce.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Combinatorics/src/ParametricSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -656,6 +502,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/SubArrayWithGivenSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/src/findTextWithDelims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/PalidromeReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1923">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-423">
@@ -663,9 +562,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/balanced/avltree/AvlTree.java">
+    <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1923">
+        <state relative-caret-position="-1353">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
@@ -677,17 +576,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/Trie.java">
+    <entry file="file://$PROJECT_DIR$/BitManipulations/src/BitOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trie/src/com/wajahat/trie/TrieTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="297">
+          <caret line="74" column="42" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +608,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
