@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class SeiveOfErathosthenes {
-	public static List<Integer> seiveOfErathosthenes(int n) {
+	private static List<Integer> seiveOfErathosthenes(int n) {
 		boolean prime[] = new boolean[n + 1];
 		Arrays.fill(prime, true);
 		
