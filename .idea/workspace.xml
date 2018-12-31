@@ -21,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RealBinary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RealBinary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BitManipulations/src/RealBinary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InbuiltFunctionalInterfaceUsage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/src/com/wajahat/learn/functional/lamda/InbuiltFunctionalInterfaceUsage.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -42,8 +42,21 @@
       <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -51,8 +64,8 @@
       <file leaf-file-name="BSTTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="816">
+              <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,14 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/GraphTest.java">
+      <file leaf-file-name="ValidateBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -117,6 +127,11 @@
       <list>
         <option value="$PROJECT_DIR$/Algorithms/src/SeiveOfErathosthenes.java" />
         <option value="$PROJECT_DIR$/BitManipulations/src/RealBinary.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/TreeNode.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBST.java" />
       </list>
     </option>
   </component>
@@ -136,98 +151,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BalancedTrees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BalancedTrees" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BalancedTrees" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="balancedtrees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BalancedTrees" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="balancedtrees" type="462c0819:PsiDirectoryNode" />
-              <item name="avltree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BalancedTrees" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="balancedtrees" type="462c0819:PsiDirectoryNode" />
-              <item name="rbtree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BitManipulations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BitManipulations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="adjlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="adjmatrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tree" type="462c0819:PsiDirectoryNode" />
@@ -275,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RealBinary">
+  <component name="RunManager" selected="Application.ValidateBST">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -289,6 +212,17 @@
       <module name="Algorithms" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="ValidateBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wajahat.tree.bst.ValidateBST" />
+      <module name="Tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wajahat.tree.bst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -297,7 +231,7 @@
       <module name="Array" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BSTTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tree" />
       <extension name="coverage">
         <pattern>
@@ -309,31 +243,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.wajahat.tree.bst" />
       <option name="MAIN_CLASS_NAME" value="com.wajahat.tree.bst.BSTTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="GraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Graph" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.graph.adjlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.graph.adjlist" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.graph.adjlist.GraphTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -382,19 +293,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.BSTTest" />
-      <item itemvalue="JUnit.GraphTest" />
       <item itemvalue="Application.SeiveOfErathosthenes" />
       <item itemvalue="Application.printZigZag" />
       <item itemvalue="Application.RealBinary" />
+      <item itemvalue="JUnit.BSTTest.testDelete" />
+      <item itemvalue="Application.ValidateBST" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateBST" />
+        <item itemvalue="JUnit.BSTTest.testDelete" />
         <item itemvalue="Application.RealBinary" />
         <item itemvalue="Application.printZigZag" />
         <item itemvalue="Application.SeiveOfErathosthenes" />
-        <item itemvalue="JUnit.GraphTest" />
-        <item itemvalue="JUnit.BSTTest" />
       </list>
     </recent_temporary>
   </component>
@@ -412,15 +323,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BSTTest - 2018.12.30 at 12h 54m 14s.xml">
-      <configuration name="BSTTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GraphTest - 2018.12.30 at 12h 55m 23s.xml">
       <configuration name="GraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 26m 40s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 28m 17s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 32m 04s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 32m 11s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 32m 44s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 32m 47s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 32m 55s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 33m 01s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BSTTest_testDelete - 2018.12.31 at 10h 36m 19s.xml">
+      <configuration name="BSTTest.testDelete" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -430,12 +366,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968536" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32968536" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32968536" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -463,8 +399,14 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -472,23 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -530,6 +455,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="73" column="19" lean-forward="true" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>

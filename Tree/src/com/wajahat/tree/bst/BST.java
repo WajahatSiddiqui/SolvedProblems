@@ -21,6 +21,10 @@ public class BST {
 		size++;
 	}
 
+	public TreeNode getRoot() {
+		return root;
+	}
+
 	/**
 	 * @return current size of bst
 	 */
@@ -43,7 +47,7 @@ public class BST {
 	/**
 	 * Check if the data is present in bst
 	 * @param data
-	 * @return true if data is present in bst, false otherwise.
+	 * @retur n true if data is present in bst, false otherwise.
 	 */
 	public boolean contains(int data) {
 		return contains(root, data);

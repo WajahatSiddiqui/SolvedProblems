@@ -49,6 +49,25 @@ public class BSTTest {
 		assertFalse(bst.contains(20));
 		assertEquals(bst.size(), 7);
 		System.out.println("testDelete : " + bst);
+
+		bst.delete(12);
+		assertFalse(bst.contains(12));
+		assertEquals(bst.size(), 6);
+		System.out.println("testDelete : " + bst);
+
+		bst.delete(10);
+		assertFalse(bst.contains(10));
+		assertEquals(bst.size(), 5);
+		System.out.println("testDelete : " + bst);
+
+		bst.insert(1);
+		bst.delete(3);
+		bst.delete(4);
+		bst.delete(5);
+		bst.delete(2);
+
+		assertFalse(bst.contains(2));
+		System.out.println("testDelete : " + bst);
 	}
 	
 	@Test

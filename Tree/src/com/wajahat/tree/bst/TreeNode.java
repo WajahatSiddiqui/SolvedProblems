@@ -1,10 +1,12 @@
 package com.wajahat.tree.bst;
 
-public class TreeNode {
-	public int data;
-	public TreeNode left, right;
+class TreeNode {
+	int data;
+	TreeNode left, right;
 
-	public TreeNode(int data) {
+	TreeNode(int data) {
 		this.data = data;
+		left = null;
+		right = null;
 	}
 }
