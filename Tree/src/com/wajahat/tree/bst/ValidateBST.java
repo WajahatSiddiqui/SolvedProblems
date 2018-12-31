@@ -1,11 +1,32 @@
 package com.wajahat.tree.bst;
 
+import sun.reflect.generics.tree.Tree;
+
+import java.util.ArrayList;
+import java.util.List;
+
 // Validate a given binary tree as BST
 // Created by Wajahat
 public class ValidateBST {
 
-    private static boolean isBST(TreeNode root, Integer prev) {
-        if (root == null) return false;
+    public boolean isBSTArray(TreeNode root) {
+        List<Integer> values = new ArrayList<>();
+        isBSTArray(root, values);
+        for (int i = 1; i < values.size(); i++) {
+            if (values.get(i) < values.get(i-1)) return false;
+        }
+        return true;
+    }
+
+    private void isBSTArray(TreeNode node, List<Integer> value) {
+        if (node == null) return;
+        isBSTArray(node.left, value);
+        value.add(node.data);
+        isBSTArray(node.right, value);
+    }
+
+    public boolean isBST(TreeNode root, Integer prev) {
+        if (root == null) return true;
 
         if (!isBST(root.left, prev)) return false;
 
@@ -15,17 +36,10 @@ public class ValidateBST {
         return isBST(root.right, prev);
     }
 
-    public static void main(String args[]) {
-        BST bst = new BST();
-        bst.insert(2);
-        bst.insert(1);
-        bst.insert(3);
-        bst.insert(5);
-        bst.insert(4);
-
-        if (isBST(bst.getRoot(), null)) {
-            System.out.println("it is bst");
-        }
-
+    public boolean isBSTMinMax(TreeNode root, Integer min, Integer max) {
+        if (root == null) return true;
+        if (root.data < min || root.data > max) return false;
+        return isBSTMinMax(root.left, min, root.data - 1)
+                && isBSTMinMax(root.right, root.data + 1, max);
     }
 }

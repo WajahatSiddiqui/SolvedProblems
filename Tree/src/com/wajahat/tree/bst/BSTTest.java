@@ -78,4 +78,9 @@ public class BSTTest {
 			assertTrue(list.get(i-1) < list.get(i));
 		}
 	}
+
+	@Test
+	public void testHeight() {
+		assertEquals(bst.getHeight(bst.getRoot()), 5);
+	}
 }

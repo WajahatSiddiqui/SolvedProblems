@@ -135,6 +135,11 @@ public class BST {
 		}
 		return root;
 	}
+
+	public int getHeight(TreeNode root) {
+		if (root == null) return 0;
+		return 1 + Math.max(getHeight(root.left), getHeight(root.right));
+	}
 	
 	@Override
 	public String toString() {

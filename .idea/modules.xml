@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BalancedTrees/BalancedTrees.iml" filepath="$PROJECT_DIR$/BalancedTrees/BalancedTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitManipulations/BitManipulations.iml" filepath="$PROJECT_DIR$/BitManipulations/BitManipulations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Combinatorics/Combinatorics.iml" filepath="$PROJECT_DIR$/Combinatorics/Combinatorics.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
