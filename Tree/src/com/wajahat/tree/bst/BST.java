@@ -97,16 +97,32 @@ public class BST {
 		size--;
 	}
 
+	public TreeNode minNode() {
+		return minNode(root);
+	}
+
 	private TreeNode minNode(TreeNode root) {
 		if (root == null) {
 			return null;
 		}
 		TreeNode curr = root;
-		if (curr.left != null) {
+		while (curr.left != null) {
 			curr = curr.left;
 		}
 		return curr;
 	}
+
+	public TreeNode maxNode() {
+		return maxNode(root);
+	}
+
+	private TreeNode maxNode(TreeNode root) {
+		if (root == null) return null;
+		TreeNode curr = root;
+		while (curr.right != null) curr = curr.right;
+		return curr;
+	}
+
 
 	private TreeNode delete(TreeNode root, int data) {
 		if (root == null) {
@@ -139,6 +155,26 @@ public class BST {
 	public int getHeight(TreeNode root) {
 		if (root == null) return 0;
 		return 1 + Math.max(getHeight(root.left), getHeight(root.right));
+	}
+
+	public TreeNode inorderSuccessor(TreeNode node) {
+		return inorderSuccessor(root, node);
+	}
+
+	private TreeNode inorderSuccessor(TreeNode root, TreeNode node) {
+		if (node.right != null) return minNode(node.right);
+		TreeNode succ = null;
+		while (root != null) {
+			if (node.data < root.data) {
+				succ = root;
+				root = root.left;
+			} else if (node.data > root.data) {
+				root = root.right;
+			} else {
+				break;
+			}
+		}
+		return succ;
 	}
 	
 	@Override

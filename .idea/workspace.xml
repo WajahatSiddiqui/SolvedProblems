@@ -12,94 +12,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PalidromePermutation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java">
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="298">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1813#1814#0" expanded="true" />
+                <element signature="e#2042#2043#0" expanded="true" />
+                <element signature="e#2064#2065#0" expanded="true" />
+                <element signature="e#3031#3032#0" expanded="true" />
+                <element signature="e#3062#3063#0" expanded="true" />
+                <element signature="e#3233#3234#0" expanded="true" />
+                <element signature="e#3267#3268#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <file leaf-file-name="BSTTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30840">
-              <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+            <state relative-caret-position="373">
+              <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
               <folding>
-                <element signature="e#82971#82972#0" expanded="true" />
-                <element signature="e#83020#83021#0" expanded="true" />
+                <element signature="e#1679#1680#0" expanded="true" />
+                <element signature="e#1691#1692#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringManip.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/StringManip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringMatching.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/StringMatching.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubstringInsideString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/SubstringInsideString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumitString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/SumitString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringSequence/src/Sequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2925">
-              <caret line="235" column="25" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="25" />
-              <folding>
-                <element signature="e#8762#8763#0" expanded="true" />
-                <element signature="e#8807#8808#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11460">
-              <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -132,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java" />
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java" />
         <option value="$PROJECT_DIR$/Tree/src/balancedtrees/avltree/TreeNode.java" />
         <option value="$PROJECT_DIR$/Tree/src/com/wajahat/balancedtree/avltree/TreeNode.java" />
         <option value="$PROJECT_DIR$/StringSequence/src/RemoveChars.java" />
@@ -143,6 +81,8 @@
         <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/ProblemsTest.java" />
         <option value="$PROJECT_DIR$/StringSequence/src/StringRotation.java" />
         <option value="$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java" />
+        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java" />
       </list>
     </option>
   </component>
@@ -162,12 +102,33 @@
           <expand>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StringSequence" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="bst" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringRotation">
+  <component name="RunManager" selected="JUnit.BSTTest.inorderSuccessor">
     <configuration name="PalidromePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalidromePermutation" />
       <module name="StringSequence" />
@@ -220,18 +181,18 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ProblemsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Graph" />
+    <configuration name="BSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wajahat.graph.problems.*" />
+          <option name="PATTERN" value="com.wajahat.tree.bst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.graph.problems" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.graph.problems.ProblemsTest" />
+      <option name="PACKAGE_NAME" value="com.wajahat.tree.bst" />
+      <option name="MAIN_CLASS_NAME" value="com.wajahat.tree.bst.BSTTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -243,19 +204,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ProblemsTest.testBuildOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Graph" />
+    <configuration name="BSTTest.inorderSuccessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tree" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wajahat.graph.problems.*" />
+          <option name="PATTERN" value="com.wajahat.tree.bst.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.graph.problems" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.graph.problems.ProblemsTest" />
-      <option name="METHOD_NAME" value="testBuildOrder" />
+      <option name="PACKAGE_NAME" value="com.wajahat.tree.bst" />
+      <option name="MAIN_CLASS_NAME" value="com.wajahat.tree.bst.BSTTest" />
+      <option name="METHOD_NAME" value="inorderSuccessor" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -305,19 +266,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ProblemsTest" />
-      <item itemvalue="JUnit.ProblemsTest.testBuildOrder" />
       <item itemvalue="Application.PalidromePermutation" />
       <item itemvalue="Application.Sequence" />
       <item itemvalue="Application.StringRotation" />
+      <item itemvalue="JUnit.BSTTest" />
+      <item itemvalue="JUnit.BSTTest.inorderSuccessor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BSTTest.inorderSuccessor" />
+        <item itemvalue="JUnit.BSTTest" />
         <item itemvalue="Application.StringRotation" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.PalidromePermutation" />
-        <item itemvalue="JUnit.ProblemsTest.testBuildOrder" />
-        <item itemvalue="JUnit.ProblemsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -335,9 +296,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BSTTest_testHeight - 2018.12.31 at 17h 06m 33s.xml">
-      <configuration name="BSTTest.testHeight" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ValidateBSTTest_validBST - 2018.12.31 at 17h 46m 05s.xml">
       <configuration name="ValidateBSTTest.validBST" configurationId="JUnit" />
     </history-entry>
@@ -365,36 +323,39 @@
     <history-entry file="ProblemsTest - 2018.12.31 at 18h 11m 17s.xml">
       <configuration name="ProblemsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BSTTest - 2019.01.04 at 15h 25m 07s.xml">
+      <configuration name="BSTTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32988358" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988358" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39974126" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32988358" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988358" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32988358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -434,7 +395,7 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -593,13 +554,6 @@
     <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/balancedtree/avltree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StringSequence/src/RemoveChars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -618,13 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2250">
           <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="143" column="13" selection-start-line="143" selection-start-column="13" selection-end-line="143" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -694,28 +641,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/StringRotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2925">
-          <caret line="235" column="25" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
           <folding>
-            <element signature="e#8762#8763#0" expanded="true" />
-            <element signature="e#8807#8808#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11460">
-          <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+        <state relative-caret-position="373">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringSequence/src/Sequence.java">
+    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="433">
+          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+          <folding>
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -747,36 +703,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/StringSequence/src/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30840">
-          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+        <state relative-caret-position="285">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="235" column="25" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="25" />
           <folding>
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
+            <element signature="e#8762#8763#0" expanded="true" />
+            <element signature="e#8807#8808#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringSequence/src/StringRotation.java">
+    <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        <state relative-caret-position="433">
+          <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
           <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1813#1814#0" expanded="true" />
+            <element signature="e#2042#2043#0" expanded="true" />
+            <element signature="e#2064#2065#0" expanded="true" />
+            <element signature="e#3031#3032#0" expanded="true" />
+            <element signature="e#3062#3063#0" expanded="true" />
+            <element signature="e#3233#3234#0" expanded="true" />
+            <element signature="e#3267#3268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java">
+    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/BSTTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="373">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+            <element signature="e#1691#1692#0" expanded="true" />
           </folding>
         </state>
       </provider>
