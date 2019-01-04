@@ -15,8 +15,8 @@
       <file leaf-file-name="PalidromePermutation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="343">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +85,7 @@
       <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2910">
+            <state relative-caret-position="2925">
               <caret line="235" column="25" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="25" />
               <folding>
                 <element signature="e#8762#8763#0" expanded="true" />
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBSTTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/ProblemsTest.java" />
-        <option value="$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java" />
         <option value="$PROJECT_DIR$/StringSequence/src/StringRotation.java" />
+        <option value="$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java" />
       </list>
     </option>
   </component>
@@ -173,8 +173,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -381,10 +381,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32988358" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32988358" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32988358" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495114" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="2" />
       <window_info anchor="bottom" id="Console" order="7" />
@@ -429,7 +429,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java</url>
-          <line>11</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -696,7 +696,7 @@
     </entry>
     <entry file="jar://$USER_HOME$/Softwares/jdk1.8.0_172/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2910">
+        <state relative-caret-position="2925">
           <caret line="235" column="25" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="25" />
           <folding>
             <element signature="e#8762#8763#0" expanded="true" />
@@ -773,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StringSequence/src/PalidromePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="343">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
