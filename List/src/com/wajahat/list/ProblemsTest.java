@@ -3,6 +3,7 @@ package com.wajahat.list;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
 public class ProblemsTest {
@@ -38,14 +39,14 @@ public class ProblemsTest {
 		assertTrue(!problems.isCircular(head));
 		
 		Node<Integer> head1 = null;
-		head1 = list.insertLast(head1, 1);
+		head1 = list.insertLast(null, 1);
 		head1.next = head1;
 		
 		assertTrue(problems.isCircular(head1));
 		
 		Node<Integer> head3 = null;
 		
-		head3 = list.insertLast(head3, 1);
+		head3 = list.insertLast(null, 1);
 		head3 = list.insertLast(head3, 2);
 		head3 = list.insertLast(head3, 3);
 		
@@ -57,6 +58,24 @@ public class ProblemsTest {
 		//    |___|
 		head3.next.next.next = head3.next;
 		assertTrue(problems.isCircular(head3));
+	}
+
+	@Test
+	public void testIntersect() {
+		Node<Integer> head1 = null, head2 = null;
+		head1 = list.insertLast(null, 1);
+		head1 = list.insertLast(head1, 2);
+		head1 = list.insertLast(head1, 3);
+		head1 = list.insertLast(head1, 4);
+
+		head2 = list.insertLast(null, 10);
+		head2 = list.insertLast(head2, 20);
+		head2 = list.insertLast(head2, 30);
+		head2.next.next.next = head1.next.next;
+
+		Integer key = problems.intersect(head1, head2).key;
+		assertNotNull(key);
+		assertEquals(3, key.intValue());
 	}
 
 }

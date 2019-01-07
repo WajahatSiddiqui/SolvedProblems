@@ -1,5 +1,8 @@
 package com.wajahat.list;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class Problems<Key> {
 	
 	public Node<Key> reverse(Node<Key> head) {
@@ -31,6 +34,25 @@ public class Problems<Key> {
 			}
 		}
 		return false;		
+	}
+
+	public Node<Key> intersect(Node<Key> head1, Node<Key> head2) {
+		if (head1 == null || head2 == null) return null;
+		Node<Key> curr1 = head1;
+		Node<Key> curr2 = head2;
+		Set<Node<Key>> visited = new HashSet<>();
+		while (curr1 != null) {
+			visited.add(curr1);
+			curr1 = curr1.next;
+		}
+
+		while (curr2 != null) {
+			if (visited.contains(curr2)) {
+				return curr2;
+			}
+			curr2 = curr2.next;
+		}
+		return null;
 	}
 	
 }
