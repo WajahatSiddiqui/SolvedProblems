@@ -1,9 +1,12 @@
-import java.util.Scanner;
+import org.junit.Test;
+
 import java.util.Stack;
+
+import static org.junit.Assert.assertEquals;
 
 public class SpecialStack {
 	Stack<Integer> smin = new Stack<>();
-	public void push(int a, Stack<Integer> s) {
+	public void push(Stack<Integer> s, int a) {
 		s.push(a);
 		if (smin.isEmpty() || a < smin.peek()) {
 			smin.push(a);
@@ -26,27 +29,25 @@ public class SpecialStack {
 		return p;
 	}
 	
-	public int min(Stack<Integer> s) {
+	public int min() {
 		return smin.peek();
 	}
-	
-	public static void main(String[] args) {
+
+	@Test
+	public void test() {
 		SpecialStack ss = new SpecialStack();
-		Scanner scanner = new Scanner(System.in);
-		
 		Stack<Integer> s = new Stack<>();
-		
-		int T = scanner.nextInt();
-		int N = 0;
-		while (T > 0) {
-			N = scanner.nextInt();
-			while (N > 0) {
-				ss.push(scanner.nextInt(), s);
-				N--;
-			}
-			System.out.println(ss.min(s));
-			T--;
-		}
-		scanner.close();
+		ss.push(s,5);
+		ss.push(s,4);
+		ss.push(s,3);
+		ss.push(s,2);
+		ss.push(s,1);
+		ss.push(s,3);
+
+		assertEquals(1, ss.min());
+		assertEquals(3, ss.pop(s));
+		assertEquals(1, ss.min());
+		assertEquals(1, ss.pop(s));
+		assertEquals(2, ss.min());
 	}
 }
