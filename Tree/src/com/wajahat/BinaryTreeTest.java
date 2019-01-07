@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -80,5 +81,10 @@ public class BinaryTreeTest {
     @Test
     public void testSpiralView() {
         assertTrue(isEqual(Stream.of(10, 11, 20, 12, 12, 13).collect(Collectors.toList()), binaryTree.spiralView(root)));
+    }
+
+    @Test
+    public void testLCA() {
+        assertEquals(10, binaryTree.lca(root, 12, 13).data);
     }
 }

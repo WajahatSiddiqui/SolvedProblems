@@ -176,4 +176,16 @@ public class BinaryTree {
         }
         return list;
     }
+
+    public TreeNode lca(TreeNode root, int n1, int n2) {
+        if (root == null) return null;
+
+        if (root.data == n1 || root.data == n2) return root;
+
+        TreeNode left_lca = lca(root.left, n1, n2);
+        TreeNode right_lca = lca(root.right, n1, n2);
+
+        if (left_lca != null && right_lca != null) return root;
+        return left_lca != null ? left_lca : right_lca;
+    }
 }
