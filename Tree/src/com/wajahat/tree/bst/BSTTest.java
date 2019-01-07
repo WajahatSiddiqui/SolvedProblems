@@ -6,6 +6,7 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
 public class BSTTest {
@@ -82,5 +83,37 @@ public class BSTTest {
 	@Test
 	public void testHeight() {
 		assertEquals(bst.getHeight(bst.getRoot()), 5);
+	}
+
+	@Test
+	public void testPrint() {
+		System.out.println(bst);
+	}
+
+	@Test
+	public void testMinNode() {
+		TreeNode minNode = bst.minNode();
+		assertNotNull(minNode);
+		assertEquals(2, minNode.data);
+	}
+
+	@Test
+	public void testMaxNode() {
+		TreeNode maxNode = bst.maxNode();
+		assertNotNull(maxNode);
+		assertEquals(20, maxNode.data);
+	}
+
+	@Test
+	public void inorderSuccessor() {
+		TreeNode node = bst.getRoot().left;
+		TreeNode succ = bst.inorderSuccessor(node);
+		assertNotNull(succ);
+		assertEquals(3, succ.data);
+
+		node = node.right.right.right;
+		succ = bst.inorderSuccessor(node);
+		assertNotNull(succ);
+		assertEquals(10, succ.data);
 	}
 }
