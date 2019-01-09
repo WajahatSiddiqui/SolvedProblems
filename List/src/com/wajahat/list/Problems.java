@@ -60,15 +60,13 @@ public class  Problems<Key> {
 
 		Set<Key> visited = new HashSet<>();
 		Node<Key> curr = head;
-		Node<Key> prev = null;
-		while (curr != null) {
-			prev = curr;
-			if (visited.contains(curr.key)) {
-				prev.next = curr.next;
-				curr = curr.next;
-				continue;
-			}
-			visited.add(curr.key);
+		visited.add(curr.key);
+		while (curr != null && curr.next != null) {
+			if (visited.contains(curr.next.key)) {
+			    curr.next = curr.next.next;
+			} else {
+                visited.add(curr.next.key);
+            }
 			curr = curr.next;
 		}
 		return head;

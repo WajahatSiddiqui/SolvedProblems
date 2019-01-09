@@ -2,6 +2,9 @@ package com.wajahat.list;
 
 import org.junit.Test;
 
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
@@ -19,6 +22,16 @@ public class ProblemsTest {
 		head = list.insertFirst(head, 20);
 		head = list.insertFirst(head, 30);
 	}
+
+    private boolean isEqual(java.util.List<Integer> list1, java.util.List<Integer> list2) {
+        if (list1.size() != list2.size()) return false;
+
+        int len = list1.size();
+        for (int i = 0; i < len; i++) {
+            if (!list1.get(i).equals(list2.get(i))) return false;
+        }
+        return true;
+    }
 
 	@Test
 	public void testReverse() {
@@ -89,6 +102,7 @@ public class ProblemsTest {
 
 		head1 = problems.removeDups(head1);
 		System.out.println(list.toString(head1));
+        assertTrue(isEqual(Stream.of(1, 2, 3, 4).collect(Collectors.toList()), list.getList(head1)));
 	}
 
 }

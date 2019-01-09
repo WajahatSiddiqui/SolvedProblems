@@ -1,5 +1,7 @@
 package com.wajahat.list;
 
+import java.util.ArrayList;
+
 /**
  * Singly Linked List
  * @author wajahat
@@ -202,6 +204,23 @@ public class List<Key> {
 			curr = curr.next;
 		}
 		return false;
+	}
+
+	/**
+	 * Returns as java {@link List}
+	 * @param head - head pointer
+	 * @return java {@link List}
+	 */
+	public ArrayList<Key> getList(Node<Key> head) {
+		if (head == null) return null;
+		ArrayList<Key> list = new ArrayList<>();
+
+		Node<Key> curr = head;
+		while (curr != null) {
+			list.add(curr.key);
+			curr = curr.next;
+		}
+		return list;
 	}
 	
 	/**
