@@ -3,7 +3,7 @@ package com.wajahat.list;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Problems<Key> {
+public class  Problems<Key> {
 	
 	public Node<Key> reverse(Node<Key> head) {
 		if (head == null) {
@@ -54,5 +54,23 @@ public class Problems<Key> {
 		}
 		return null;
 	}
-	
+
+	public Node<Key> removeDups(Node<Key> head) {
+		if (head == null) return null;
+
+		Set<Key> visited = new HashSet<>();
+		Node<Key> curr = head;
+		Node<Key> prev = null;
+		while (curr != null) {
+			prev = curr;
+			if (visited.contains(curr.key)) {
+				prev.next = curr.next;
+				curr = curr.next;
+				continue;
+			}
+			visited.add(curr.key);
+			curr = curr.next;
+		}
+		return head;
+	}
 }

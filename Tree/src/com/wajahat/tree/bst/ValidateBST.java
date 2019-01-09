@@ -1,9 +1,8 @@
 package com.wajahat.tree.bst;
 
-import sun.reflect.generics.tree.Tree;
-
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Stream;
 
 // Validate a given binary tree as BST
 // Created by Wajahat
@@ -15,6 +14,7 @@ public class ValidateBST {
         for (int i = 1; i < values.size(); i++) {
             if (values.get(i) < values.get(i-1)) return false;
         }
+        Stream.of(1, 2, 3).forEach(System.out::println);
         return true;
     }
 

@@ -78,4 +78,17 @@ public class ProblemsTest {
 		assertEquals(3, key.intValue());
 	}
 
+	@Test
+	public void testRemoveDups() {
+		Node<Integer> head1 = null;
+		head1 = list.insertLast(null, 1);
+		head1 = list.insertLast(head1, 2);
+		head1 = list.insertLast(head1, 3);
+		head1 = list.insertLast(head1, 4);
+		head1 = list.insertLast(head1, 2);
+
+		head1 = problems.removeDups(head1);
+		System.out.println(list.toString(head1));
+	}
+
 }
