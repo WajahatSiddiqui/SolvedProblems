@@ -12,6 +12,8 @@ public class Runner {
 	private Lock lock1 = new ReentrantLock();
 	private Lock lock2 = new ReentrantLock();
 
+	private static final int LIMIT = 10000;
+
 	public Runner() {
 		account1 = new Account();
 		account2 = new Account();
@@ -47,7 +49,7 @@ public class Runner {
 
 	public void firstThread() throws InterruptedException {
 		Random random = new Random();
-		for (int i = 0; i < 10000; i++) {
+		for (int i = 0; i < LIMIT; i++) {
 			/*lock1.lock();
 			lock2.lock();*/
 			acquireLock(lock1, lock2);
@@ -63,7 +65,7 @@ public class Runner {
 
 	public void secondThread() throws InterruptedException {
 		Random random = new Random();
-		for (int i = 0; i < 10000; i++) {
+		for (int i = 0; i < LIMIT; i++) {
 			/*lock2.lock();
 			lock1.lock();*/
 			acquireLock(lock1, lock2);

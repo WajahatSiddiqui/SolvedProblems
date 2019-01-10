@@ -1,5 +1,8 @@
 package com.wajahat.stack;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Stack : A LIFO list
  * @author wajahat
@@ -76,6 +79,17 @@ public class Stack<Key> {
 			curr = curr.next;
 		}
 		return false;
+	}
+
+	public List<Integer> toList() {
+		if (isEmpty()) return null;
+		List<Integer> list = new ArrayList<>();
+		Node<Key> curr = head;
+		while (curr != null) {
+			list.add((Integer) curr.key);
+			curr = curr.next;
+		}
+		return list;
 	}
 	
 	/**
