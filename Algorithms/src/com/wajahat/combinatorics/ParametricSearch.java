@@ -1,3 +1,5 @@
+package com.wajahat.combinatorics;
+
 import java.util.Scanner;
 
 
