@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/BalancedTrees/BalancedTrees.iml" filepath="$PROJECT_DIR$/BalancedTrees/BalancedTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/BitManipulations/BitManipulations.iml" filepath="$PROJECT_DIR$/BitManipulations/BitManipulations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Combinatorics/Combinatorics.iml" filepath="$PROJECT_DIR$/Combinatorics/Combinatorics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LruCache/Cache.iml" filepath="$PROJECT_DIR$/LruCache/Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/DisjointSets/DisjointSets.iml" filepath="$PROJECT_DIR$/DisjointSets/DisjointSets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
@@ -14,7 +14,6 @@
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LruCache/LruCache.iml" filepath="$PROJECT_DIR$/LruCache/LruCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Problems/Problems.iml" filepath="$PROJECT_DIR$/Problems/Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/SolvedProblems.iml" filepath="$PROJECT_DIR$/Java/SolvedProblems.iml" />
