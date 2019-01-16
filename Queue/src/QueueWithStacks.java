@@ -9,7 +9,7 @@ import java.util.Stack;
  * Class Implements Queue With Stack
  * Created by wajahat
  */
-public class MyQueue {
+public class QueueWithStacks {
     private Stack<Integer> recordNew = new Stack<>();
     private Stack<Integer> recordOld = new Stack<>();
 

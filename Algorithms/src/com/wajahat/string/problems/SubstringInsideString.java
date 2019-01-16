@@ -1,3 +1,5 @@
+package com.wajahat.string.problems;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
