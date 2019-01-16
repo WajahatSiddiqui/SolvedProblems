@@ -96,6 +96,25 @@ public class  Problems<Key> {
     }
 
 	/**
+	 * Get Kth from last without using count
+	 */
+	public Node<Key> getLastWithoutCount(Node<Key> head, int K) {
+		if (head == null) return null;
+		Node<Key> c1 = head, c2 = head;
+		int count = 0;
+		while (count < K) {
+			c2 = c2.next;
+			count++;
+		}
+
+		while (c1.next != null && c2 != null) {
+			c1 = c1.next;
+			c2 = c2.next;
+		}
+		return c1;
+	}
+
+	/**
 	 * Delete a given node, except last node
 	 * @param node
 	 * @return
