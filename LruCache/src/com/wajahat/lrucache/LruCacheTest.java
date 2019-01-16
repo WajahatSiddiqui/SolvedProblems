@@ -1,6 +1,11 @@
 package com.wajahat.lrucache;
 
+import org.junit.Assert;
 import org.junit.Test;
+
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -84,6 +89,30 @@ public class LruCacheTest {
 		assertEquals(lruCache.remove(100), null);
 		
 		System.out.println("testRemove : " + lruCache);
+	}
+
+	private boolean isEqual(List<Integer> list1, List<Integer> list2) {
+		if (list1.size() != list2.size()) return false;
+
+		int len = list1.size();
+		for (int i = 0; i < len; i++) {
+			if (!list1.get(i).equals(list2.get(i))) return false;
+		}
+		return true;
+	}
+
+
+	@Test
+	public void testRefer() {
+		LruCache<Integer, String> lruCache = new LruCache<>(4);
+		lruCache.put(1, "a");
+		lruCache.put(2, "b");
+		lruCache.put(3, "c");
+		lruCache.put(1, "d");
+		lruCache.put(4, "e");
+		lruCache.put(5, "f");
+		Assert.assertTrue(isEqual(Stream.of(5, 4, 1, 3).collect(Collectors.toList()),
+				lruCache.getQueue()));
 	}
 	
 	@Test

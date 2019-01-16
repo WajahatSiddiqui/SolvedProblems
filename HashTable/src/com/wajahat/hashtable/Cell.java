@@ -13,7 +13,7 @@ public class Cell<Key, Value> {
 	public Value getValue() { return value;}
 	
 	public boolean equivalent(Object k) {
-		if (k == this) return true;
+		if (k == this.key) return true;
 		if (k == null) return false;
 		if (k.getClass() != this.getClass()) return false;
 		
