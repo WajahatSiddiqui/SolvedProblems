@@ -1,3 +1,5 @@
+package com.wajahat.string.problems;
+
 import java.util.Arrays;
 
 public class Pangrams {

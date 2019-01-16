@@ -1,3 +1,5 @@
+package com.wajahat.string.problems;
+
 /**
  * Class Determine if s2 is rotation of s1
  * Created by wajahat
