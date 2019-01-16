@@ -208,4 +208,19 @@ public class ProblemsTest {
 		assertTrue(isEqual(Stream.of(3, 2, 1, 5, 8, 5, 10).collect(Collectors.toList()),
 				list.getList(problems.partition(head, 5))));
 	}
+
+	@Test
+	public void testGetLastWithoutCount() {
+		// 30->20->10->40->50->60->70->10->11
+		head = list.insertLast(head, 40);
+		head = list.insertLast(head, 50);
+		head = list.insertLast(head, 60);
+		head = list.insertLast(head, 70);
+		head = list.insertLast(head, 10);
+		head = list.insertLast(head, 11);
+
+		assertEquals(70, (int) problems.getLastWithoutCount(head, 3).key);
+		assertEquals(11, (int) problems.getLastWithoutCount(head, 0).key);
+		assertEquals(30, (int) problems.getLastWithoutCount(head, list.size()).key);
+	}
 }
