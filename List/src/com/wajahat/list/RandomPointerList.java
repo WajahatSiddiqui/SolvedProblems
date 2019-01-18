@@ -87,5 +87,4 @@ public class RandomPointerList {
         assertEquals(clone.next.next.next.random,  clone.next);
         assertEquals(clone.next.next.next.next.random,  clone);
     }
-
 }
