@@ -1,7 +1,5 @@
 package executorservice;
 
-import org.junit.Test;
-
 /**
  * Class Class to run custom executor service
  * Created by wajahat
