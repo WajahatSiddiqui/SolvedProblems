@@ -1,4 +1,4 @@
-package immutability;
+package com.wajahat.immutability;
 
 import java.util.List;
 import java.util.stream.Collectors;

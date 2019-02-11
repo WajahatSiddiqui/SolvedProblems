@@ -1,4 +1,4 @@
-package classloaders;
+package com.wajahat.classloaders;
 
 import java.util.HashMap;
 

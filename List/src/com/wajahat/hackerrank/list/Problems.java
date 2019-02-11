@@ -95,6 +95,10 @@ public class  Problems<Key> {
         return curr;
     }
 
+    public Node<Key> getLastWithoutCount(Node<Key> head, int K, int N) {
+		return null;
+	}
+
 	/**
 	 * Get Kth from last without using count
 	 */

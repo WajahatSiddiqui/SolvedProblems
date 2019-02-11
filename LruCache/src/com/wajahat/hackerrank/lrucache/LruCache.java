@@ -1,5 +1,8 @@
 package com.wajahat.hackerrank.lrucache;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedDeque;
@@ -89,6 +92,12 @@ public class LruCache<Key, Value> {
 	 * @return true of lru cache is empty, false otherwise
 	 */
 	public boolean isEmpty() { return size() == 0; }
+
+	public List<Integer> getQueue() {
+		List<Integer> list = new ArrayList<>();
+		queue.iterator().forEachRemaining(key -> {list.add((Integer) key);});
+		return list;
+	}
 
 	/**
 	 * Returns the string representation of lru cache.

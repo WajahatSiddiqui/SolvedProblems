@@ -1,4 +1,4 @@
-package immutability;
+package com.wajahat.immutability;
 
 /**
  * Class Age of the employee

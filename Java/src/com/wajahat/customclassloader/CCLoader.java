@@ -1,4 +1,4 @@
-package customclassloader;
+package com.wajahat.customclassloader;
 
 import java.io.DataInputStream;
 import java.io.File;
@@ -34,7 +34,7 @@ public class CCLoader extends ClassLoader {
     @Override
     protected Class<?> loadClass(String name, boolean resolve) throws ClassNotFoundException {
         System.out.println("Loading class: " + name);
-        if (name.startsWith("customclassloader")) {
+        if (name.startsWith("com/wajahat/customclassloader")) {
             System.out.println("Loading class with CCLoader !!!");
             return getClass(name);
         }

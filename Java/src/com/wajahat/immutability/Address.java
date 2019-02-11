@@ -1,4 +1,4 @@
-package immutability;
+package com.wajahat.immutability;
 
 /**
  * Class Address class

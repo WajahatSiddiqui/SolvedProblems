@@ -1,4 +1,4 @@
-package customclassloader;
+package com.wajahat.customclassloader;
 
 import java.lang.reflect.Method;
 
