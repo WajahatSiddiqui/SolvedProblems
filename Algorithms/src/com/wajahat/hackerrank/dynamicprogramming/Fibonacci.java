@@ -29,6 +29,7 @@ public class Fibonacci {
     int fibonacciTDNUtil(int n, int [] memory) {
         if (memory[n] != 0) return memory[n];
         memory[n] = fibonacciTDNUtil(n-1, memory) + fibonacciTDNUtil(n-2, memory);
+        return memory[n];
     }
 
     int fibonacciTDN(int n) {
