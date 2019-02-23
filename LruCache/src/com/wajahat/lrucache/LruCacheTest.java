@@ -114,6 +114,37 @@ public class LruCacheTest {
 		Assert.assertTrue(isEqual(Stream.of(5, 4, 1, 3).collect(Collectors.toList()),
 				lruCache.getQueue()));
 	}
+
+	private static class Runner implements Runnable {
+		private LruCache<Integer, String> cache;
+		public Runner(LruCache<Integer, String> cache) {
+			this.cache = cache;
+		}
+		@Override
+		public void run() {
+			int i = 0;
+			while (i < 100000) {
+				cache.put(i % 20, "a");
+				i++;
+			}
+		}
+	}
+
+	@Test
+	public void testMultiThreadedLRU() throws InterruptedException {
+		LruCache<Integer, String> cache = new LruCache<>(4);
+		Thread []t = new Thread[10];
+		for (int i = 0; i < 10; i++) {
+			t[i] = new Thread(new Runner(cache));
+			t[i].start();
+		}
+
+		for (int i = 0; i < 10; i++) {
+			t[i].join();
+		}
+
+		System.out.println(cache);
+	}
 	
 	@Test
 	public void testToString() {
