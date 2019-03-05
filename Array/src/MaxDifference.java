@@ -6,14 +6,16 @@ import org.junit.Test;
  **/
 public class MaxDifference {
 
-    int maxDifference(int[] arr) {
+    private int maxDifference(int[] arr) {
         int min_element = arr[0];
         int diff = arr[1] - arr[0];
         for (int i = 1; i < arr.length; i++) {
-            if (arr[i] > min_element && arr[i] - min_element > diff)
+            if ((arr[i] > min_element) && ((arr[i] - min_element) > diff)) {
                 diff = arr[i] - min_element;
-            if (arr[i] < min_element)
+            }
+            if (arr[i] < min_element) {
                 min_element = arr[i];
+            }
         }
         return diff < 0 ? -1 : diff;
     }
