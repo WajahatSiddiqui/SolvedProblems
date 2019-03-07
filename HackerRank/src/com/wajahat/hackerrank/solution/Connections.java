@@ -70,8 +70,8 @@ public class Connections {
      *         both {@code 0 <= p < n} and {@code 0 <= q < n}
      */
     public void union(int p, int q) {
-    	if (connected(p, q)) return;
-    	
+        if (connected(p, q)) return;
+
         int rootP = find(p);
         int rootQ = find(q);
 
@@ -86,38 +86,38 @@ public class Connections {
         }
     }
     
-	public int count(int q) {
-		return size[find(q)];
-	}
-	
-	public void printArray() {
-		for (int i = 1; i < parent.length; i++) {
-			System.out.print(parent[i] + " ");
-		}
-		System.out.println();
-		for (int i = 1; i < size.length; i++) {
-			System.out.print(size[i] + " ");
-		}
-	}
-	
-	public static void main(String args[]) {
-		try (Scanner sc = new Scanner(System.in)) {
-			int N = sc.nextInt();
-			Connections con = new Connections(N);
-			int Q = sc.nextInt();
-			sc.nextLine();
-			while (Q > 0) {
-				String line = sc.nextLine();
-				String [] tokens = line.split(" ");
-				if (tokens[0].equals("Q")) {
-					System.out.println(con.count(Integer.parseInt(tokens[1])));
-				} else if (tokens[0].equals("M")) {
-					con.union(Integer.parseInt(tokens[1]), Integer.parseInt(tokens[2]));
-				}
-				Q--;
-			}
-			con.printArray();
-		}
-	}
+    public int count(int q) {
+        return size[find(q)];
+    }
+
+    public void printArray() {
+        for (int i = 1; i < parent.length; i++) {
+            System.out.print(parent[i] + " ");
+        }
+        System.out.println();
+        for (int i = 1; i < size.length; i++) {
+            System.out.print(size[i] + " ");
+        }
+    }
+
+    public static void main(String args[]) {
+        try (Scanner sc = new Scanner(System.in)) {
+            int N = sc.nextInt();
+            Connections con = new Connections(N);
+            int Q = sc.nextInt();
+            sc.nextLine();
+            while (Q > 0) {
+                String line = sc.nextLine();
+                String [] tokens = line.split(" ");
+                if (tokens[0].equals("Q")) {
+                    System.out.println(con.count(Integer.parseInt(tokens[1])));
+                } else if (tokens[0].equals("M")) {
+                    con.union(Integer.parseInt(tokens[1]), Integer.parseInt(tokens[2]));
+                }
+                Q--;
+            }
+            con.printArray();
+        }
+    }
 }
 

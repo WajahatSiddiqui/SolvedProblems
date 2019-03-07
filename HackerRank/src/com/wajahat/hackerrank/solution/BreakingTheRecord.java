@@ -3,21 +3,21 @@ package com.wajahat.hackerrank.solution;
 import java.util.Scanner;
 
 public class BreakingTheRecord {
-	static int[] getRecord(int[] s){
-		int[] result = new int[2];
-		int highest, lowest;
-		highest = lowest = s[0];
-		for (int i = 1; i < s.length; i++) {
-			if (s[i] > highest) {
-				highest = s[i];
-				result[0]++;
-			}
-			if (s[i] < lowest) {
-				lowest = s[i];
-				result[1]++;
-			}
-		}
-		return result;
+    static int[] getRecord(int[] s){
+        int[] result = new int[2];
+        int highest, lowest;
+        highest = lowest = s[0];
+        for (int i = 1; i < s.length; i++) {
+            if (s[i] > highest) {
+                highest = s[i];
+                result[0]++;
+            }
+            if (s[i] < lowest) {
+                lowest = s[i];
+                result[1]++;
+            }
+        }
+        return result;
     }
 
     public static void main(String[] args) {

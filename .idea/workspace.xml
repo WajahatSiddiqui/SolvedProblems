@@ -1,10 +1,271 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="684f8dc8-a50c-4972-a809-87884a13c25d" name="Default" comment="" />
+    <list default="true" id="7ef353ff-026a-4452-94e4-4cd236f2c83e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/src/RoadRepairing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/com/wajahat/queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/com/wajahat/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/com/wajahat/queue/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/combinatorics/ParametricSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/combinatorics/ParametricSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/mathematical/SeiveOfErathosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/mathematical/SeiveOfErathosthenes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/Pangrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/Pangrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/StringManip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/StringManip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/StringMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/StringMatching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/SubstringInsideString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/SubstringInsideString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/SumitString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/src/com/wajahat/hackerrank/string/problems/SumitString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/PalidromeReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/PalidromeReduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/DirectXAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/DirectXAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/GraphicalLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/GraphicalLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/OpenGLAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/OpenGLAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/TvApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/TvApp/adapter/TvApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularClockBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularClockBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularFace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/DecimalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/DecimalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/LineHands.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/LineHands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Compression.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Compression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/Encryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileapp/decorator/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileuploadapp/queueing/FileUploadApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileuploadapp/queueing/FileUploadApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileuploadapp/queueing/Uploader.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/fileuploadapp/queueing/Uploader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/ListBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/ListBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/MyCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/MyCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/NewApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/listbox/iterator/NewApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/ExistingFileState.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/ExistingFileState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/NewApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/NewApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/NewFileState.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/NewFileState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Notepad.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/Notepad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/UIComposite.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/notepadapp/state/UIComposite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/EventCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/EventCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/FileFoundCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/FileFoundCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/FolderEnteredCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/FolderEnteredCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/SearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpattern/searchfile/observer/SearchApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/DrawApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/DrawApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/extensible/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/CircleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/CircleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/RectangleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/RectangleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/TriangleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/drawapp/factory/TriangleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/GuiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/GuiApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/Panel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/UIComposite.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/guicomp/composite/UIComposite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/MultableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/MultableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/ResultCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/ResultCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/multable/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/FileFoundCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/FileFoundCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/SearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/SearchApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/searchfile/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/AppData.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/AppData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/solid/calcapp/Mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/App11.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/App11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/WebServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/designpatterns/webserverapp/template/WebServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/hackerrank/unionfind/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/hackerrank/unionfind/UnionFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFindTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/hackerrank/unionfind/WeightedUnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/hackerrank/unionfind/WeightedUnionFindTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFindTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/adjlist/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/adjlist/GraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/GraphTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/adjmatrix/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/adjmatrix/GraphTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/GraphTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/problems/Problems.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/Problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/com/wajahat/hackerrank/graph/problems/ProblemsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/ProblemsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/CountBitsToFlip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/CountBitsToFlip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/GenerateOTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/GenerateOTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/datastructure/arrays/solution/ArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/datastructure/arrays/solution/ArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Abbreviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Abbreviation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BeautifulBinaryString.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BeautifulBinaryString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BeautifulMovies.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BeautifulMovies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BetweenTwoSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BetweenTwoSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BirthdayCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BirthdayCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Boggle.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Boggle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BonApetit.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BonApetit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BreakingTheRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/BreakingTheRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CatAndMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CatAndMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CatalanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CatalanNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CeaserCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CeaserCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/ConnectedCellInGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/ConnectedCellInGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Connections.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Connections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Contacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CountingSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/CountingSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Cupcakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/Cupcakes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/DrawingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/DrawingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/ElectronicShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/ElectronicShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/EqualizeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/EqualizeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/FairRations.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/FairRations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/FindingMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/FindingMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HackerRankInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HackerRankInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HappyLadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HappyLadyBugs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HuffmanDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HuffmanDecode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/HuffmanTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/JimAndOrders.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/JimAndOrders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/KthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LuckyPurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/LuckyPurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MarkAndtoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MarkAndtoy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MarsExploration.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MarsExploration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MatrixSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAbsDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAbsDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAbsDiffPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAbsDiffPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAvgWaitingTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinAvgWaitingTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/MissingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/NoPrefixSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/NoPrefixSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PDFViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PDFViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PickingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PowerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PowerSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PriyankaAndtoys.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/PriyankaAndtoys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/QHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/QHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/RunningMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/RunningMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SherlockandArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SherlockandArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SockMerchant.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SockMerchant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SortBigInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SortBigInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/StackUsingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/StackUsingQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SumVsXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/SumVsXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TaumAndBday.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TaumAndBday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TheGreatXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TheGreatXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TheSalesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/TheSalesman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/WeightedUniformString.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/WeightedUniformString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/BFSShortestDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/BFSShortestDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/EvenTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/EvenTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/FloydCityOfBindingLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/graph/FloydCityOfBindingLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/recursion/PowerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/recursion/PowerSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/theHurdleRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/solution/theHurdleRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/MeanMedianMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/MeanMedianMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/Quartiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/Quartiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/StandardDeviation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/StandardDeviation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/WeightedMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/statistics/solution/WeightedMean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/BinaryProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/BinaryProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/ClassCancel.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/ClassCancel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/DictioneryAndMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/DictioneryAndMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/LibraryFine.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/LibraryFine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/MaxHourGlassSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/MaxHourGlassSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/PrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/PrimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/TestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/abs/MyBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/abs/MyBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/abs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/thirtydaysofcode/solution/abs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/ARaceAgainstTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/ARaceAgainstTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/AcidNaming.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/AcidNaming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/CutAStrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/CutAStrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/ExpertComputation.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/ExpertComputation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/RevisedRussianRoulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/src/com/wajahat/hackerrank/w36/solution/RevisedRussianRoulette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/src/com/wajahat/hackerrank/hashtable/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/src/com/wajahat/hackerrank/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/src/com/wajahat/hackerrank/hashtable/HashTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heap/src/com/wajahat/hackerrank/heap/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heap/src/com/wajahat/hackerrank/heap/BinaryHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/InbuiltFunctionalInterfaceUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/InbuiltFunctionalInterfaceUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/MethodReferenceUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/MethodReferenceUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/SampleLambdaUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/SampleLambdaUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/SampleUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/lamda/SampleUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/swing/LogAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/swing/LogAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/swing/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/swing/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/swing/TableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/swing/TableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/CountdownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/CountdownLatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/InterruptedThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/InterruptedThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/LowLevelSyncUsingWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/LowLevelSyncUsingWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/MultipleLocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/MultipleLocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ProducerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ReentrantLockUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ReentrantLockUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/SynchronizedBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/SynchronizedBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadPoolNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadPoolNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadSyncronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/ThreadSyncronization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/TwoThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/TwoThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/WaitNotifyUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/WaitNotifyUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/BankingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/BankingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/deadlock/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/swing/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/swing/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/swing/SwingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/com/wajahat/synchronization/swing/SwingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularList.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/CircularListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/circularlinkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/list/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/list/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/list/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/list/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/list/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/list/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/list/Problems.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/list/Problems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/wajahat/list/ProblemsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/wajahat/list/ProblemsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/hackerrank/lrucache/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LruCache/src/com/wajahat/hackerrank/lrucache/LruCacheTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/src/findTextWithDelims.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/src/findTextWithDelims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/com/wajahat/hackerrank/queue/CircularQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/com/wajahat/hackerrank/queue/CircularQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/com/wajahat/hackerrank/queue/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/com/wajahat/hackerrank/queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/com/wajahat/hackerrank/queue/QueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/SpecialStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/SpecialStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/com/wajahat/hackerrank/stack/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/AvlTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/AvlTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/AvlTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/AvlTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/avltree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/RBTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/RBTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/balancedtree/rbtree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/BSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/BSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/bst/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/fenwicktree/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/fenwicktree/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/fenwicktree/FenwickTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/wajahat/hackerrank/tree/fenwicktree/FenwickTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/TrieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/TrieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/application/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trie/src/com/wajahat/hackerrank/trie/application/Contacts.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Java/src/testproject/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,109 +273,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="22" selection-start-line="22" selection-end-line="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RatInMaze.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/RatInMaze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KnightTour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/KnightTour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1605#1606#0" expanded="true" />
-                <element signature="e#1628#1629#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/NQueens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedHashMapRun.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapRun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-              <folding>
-                <element signature="e#290#307#0" expanded="true" />
-                <element signature="e#692#709#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashTable.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="35" column="36" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="36" />
+            <state relative-caret-position="145">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashTableTest.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="121">
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/LinkedHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="632" column="31" selection-start-line="632" selection-start-column="31" selection-end-line="632" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShortestPathInMaze.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/ShortestPathInMaze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1594#1595#0" expanded="true" />
-                <element signature="e#1627#1628#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
+                <element signature="e#1643#1644#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrameworkMethod.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-412">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#1383#1384#0" expanded="true" />
+                <element signature="e#1449#1450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="e#3241#3242#0" expanded="true" />
+                <element signature="e#3285#3286#0" expanded="true" />
+                <element signature="e#3329#3330#0" expanded="true" />
+                <element signature="e#3402#3403#0" expanded="true" />
+                <element signature="e#3454#3455#0" expanded="true" />
+                <element signature="e#3523#3524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/QueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -128,42 +394,47 @@
       </list>
     </option>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Downloads/airquality" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../github/Microservices/employee-service/discovery-server" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithms/.gitignore" />
-        <option value="$PROJECT_DIR$/Algorithms/src/SeiveOfErathosthenes.java" />
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBSTTest.java" />
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTreeTest.java" />
-        <option value="$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBST.java" />
-        <option value="$PROJECT_DIR$/List/src/com/wajahat/list/Problems.java" />
-        <option value="$PROJECT_DIR$/List/src/com/wajahat/list/ProblemsTest.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/com/wajahat/combinatorics/ParametricSearch.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/README.md" />
-        <option value="$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/RatInMaze.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/ShortestPathInMaze.java" />
-        <option value="$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/KnightTour.java" />
-        <option value="$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapTest.java" />
-        <option value="$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapRunTest.java" />
-        <option value="$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapRun.java" />
+        <option value="$PROJECT_DIR$/Problems/src/FactorialZeros.java" />
+        <option value="$PROJECT_DIR$/Array/src/MaxDifference.java" />
+        <option value="$PROJECT_DIR$/Array/src/FindMinDiff.java" />
+        <option value="$PROJECT_DIR$/Problems/src/RoadReparing.java" />
+        <option value="$PROJECT_DIR$/Problems/src/RoadRepairing.java" />
+        <option value="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFindTest.java" />
+        <option value="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFind.java" />
+        <option value="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFindTest.java" />
+        <option value="$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFind.java" />
+        <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/GraphTest.java" />
+        <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/GraphTest.java" />
+        <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/Graph.java" />
+        <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/Problems.java" />
+        <option value="$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/ProblemsTest.java" />
+        <option value="$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTableTest.java" />
+        <option value="$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeapTest.java" />
+        <option value="$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyListTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="990" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1535" />
+    <option name="height" value="904" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,40 +445,58 @@
           <expand>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTable" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTable" type="462c0819:PsiDirectoryNode" />
+              <item name="Heap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTable" type="462c0819:PsiDirectoryNode" />
+              <item name="Heap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hashtable" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="circularlinkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="doublylinkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -217,12 +506,6 @@
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="LruCache" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LruCache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
@@ -235,47 +518,44 @@
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SolvedProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="wajahat" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="bst" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank.queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551939935779" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -289,180 +569,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrieTest">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+  <component name="RunManager" selected="Application.RoadRepairing">
+    <configuration name="RoadRepairing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RoadRepairing" />
+      <module name="Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="HashTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HashTable" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.hashtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.hashtable" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.hashtable.HashTableTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="KnightTour.testKT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.backtracking" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.backtracking.KnightTour" />
-      <option name="METHOD_NAME" value="testKT" />
+    <configuration name="FactorialZeros.testCountFactZeros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Problems" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FactorialZeros" />
+      <option name="METHOD_NAME" value="testCountFactZeros" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LinkedHashMapRun.testLinkedHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SolvedProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.collections" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.collections.LinkedHashMapRun" />
-      <option name="METHOD_NAME" value="testLinkedHashMap" />
+    <configuration name="FindMinDiff.testFindSmallestDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FindMinDiff" />
+      <option name="METHOD_NAME" value="testFindSmallestDiff" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LinkedHashMapRun.testLinkedHashMap2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SolvedProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.collections" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.collections.LinkedHashMapRun" />
-      <option name="METHOD_NAME" value="testLinkedHashMap2" />
+    <configuration name="MaxDifference.testMaxDifference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Array" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MaxDifference" />
+      <option name="METHOD_NAME" value="testMaxDifference" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="TrieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Trie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wajahat.trie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.wajahat.trie" />
-      <option name="MAIN_CLASS_NAME" value="com.wajahat.trie.TrieTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.KnightTour.testKT" />
-      <item itemvalue="JUnit.LinkedHashMapRun.testLinkedHashMap" />
-      <item itemvalue="JUnit.LinkedHashMapRun.testLinkedHashMap2" />
-      <item itemvalue="JUnit.HashTableTest" />
-      <item itemvalue="JUnit.TrieTest" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TrieTest" />
-        <item itemvalue="JUnit.HashTableTest" />
-        <item itemvalue="JUnit.LinkedHashMapRun.testLinkedHashMap2" />
-        <item itemvalue="JUnit.LinkedHashMapRun.testLinkedHashMap" />
-        <item itemvalue="JUnit.KnightTour.testKT" />
+        <item itemvalue="Application.RoadRepairing" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="JUnit.FindMinDiff.testFindSmallestDiff" />
+        <item itemvalue="JUnit.MaxDifference.testMaxDifference" />
+        <item itemvalue="JUnit.FactorialZeros.testCountFactZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -471,369 +629,472 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="684f8dc8-a50c-4972-a809-87884a13c25d" name="Default" comment="" />
-      <created>1546673935221</created>
+      <changelist id="7ef353ff-026a-4452-94e4-4cd236f2c83e" name="Default Changelist" comment="" />
+      <created>1550663207817</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546673935221</updated>
+      <updated>1550663207817</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 48m 28s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FactorialZeros_testCountFactZeros - 2019.03.04 at 20h 01m 17s.xml">
+      <configuration name="FactorialZeros.testCountFactZeros" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 49m 42s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FactorialZeros_testCountFactZeros - 2019.03.04 at 20h 17m 24s.xml">
+      <configuration name="FactorialZeros.testCountFactZeros" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 53m 22s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FactorialZeros_testCountFactZeros - 2019.03.04 at 20h 21m 08s.xml">
+      <configuration name="FactorialZeros.testCountFactZeros" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 55m 10s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FactorialZeros_testCountFactZeros - 2019.03.04 at 20h 21m 10s.xml">
+      <configuration name="FactorialZeros.testCountFactZeros" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 57m 14s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="MaxDifference_testMaxDifference - 2019.03.05 at 10h 45m 35s.xml">
+      <configuration name="MaxDifference.testMaxDifference" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 57m 27s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FindMinDiff_testFindSmallestDiff - 2019.03.05 at 11h 18m 18s.xml">
+      <configuration name="FindMinDiff.testFindSmallestDiff" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="KnightTour_testKT - 2019.01.13 at 19h 57m 30s.xml">
-      <configuration name="KnightTour.testKT" configurationId="JUnit" />
+    <history-entry file="FindMinDiff_testFindSmallestDiff - 2019.03.05 at 11h 18m 28s.xml">
+      <configuration name="FindMinDiff.testFindSmallestDiff" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedHashMapRun_testLinkedHashMap - 2019.01.15 at 12h 11m 57s.xml">
-      <configuration name="LinkedHashMapRun.testLinkedHashMap" configurationId="JUnit" />
+    <history-entry file="FindMinDiff_testFindSmallestDiff - 2019.03.05 at 11h 20m 32s.xml">
+      <configuration name="FindMinDiff.testFindSmallestDiff" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedHashMapRun_testLinkedHashMap2 - 2019.01.15 at 12h 13m 31s.xml">
-      <configuration name="LinkedHashMapRun.testLinkedHashMap2" configurationId="JUnit" />
+    <history-entry file="FindMinDiff_testFindSmallestDiff - 2019.03.05 at 11h 22m 20s.xml">
+      <configuration name="FindMinDiff.testFindSmallestDiff" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LinkedHashMapRun_testLinkedHashMap2 - 2019.01.15 at 12h 14m 33s.xml">
-      <configuration name="LinkedHashMapRun.testLinkedHashMap2" configurationId="JUnit" />
+    <history-entry file="FindMinDiff_testFindSmallestDiff - 2019.03.05 at 11h 22m 27s.xml">
+      <configuration name="FindMinDiff.testFindSmallestDiff" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32968536" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968536" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32968536" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info id="Learn" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25654802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32947233" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3989704" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32947233" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32947233" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTree.java</url>
-          <line>49</line>
+          <url>file://$PROJECT_DIR$/Problems/src/FactorialZeros.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/src/FindMinDiff.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/RoadRepairing.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/src/RoadRepairing.java</url>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTreeTest.java</url>
-          <line>70</line>
+          <url>file://$PROJECT_DIR$/Problems/src/RoadRepairing.java</url>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/List/src/com/wajahat/list/Problems.java</url>
-          <line>69</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/RatInMaze.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/RatInMaze.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/ShortestPathInMaze.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/SeiveOfErathosthenes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="2" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBSTTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/Tree.iml">
+    <entry file="file://$PROJECT_DIR$/Java/src/testproject/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayDeque.java">
+    <entry file="file://$PROJECT_DIR$/Java/src/testproject/src/test/java/MyClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="464" column="13" selection-start-line="464" selection-start-column="13" selection-end-line="464" selection-end-column="13" />
-          <folding>
-            <element signature="e#15015#15016#0" expanded="true" />
-            <element signature="e#15049#15050#0" expanded="true" />
-            <element signature="e#16316#16317#0" expanded="true" />
-            <element signature="e#16343#16344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/SeiveOfErathosthenes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="188" column="55" selection-start-line="188" selection-start-column="55" selection-end-line="188" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/java/util/HashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2346">
-          <folding>
-            <element signature="e#0#79447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/src/com/wajahat/learn/synchronization/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/tree/bst/ValidateBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree/src/com/wajahat/BinaryTreeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#2458#2459#0" expanded="true" />
-            <element signature="e#2525#2526#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/list/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3182">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/list/ProblemsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="932">
-          <caret line="127" column="33" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/list/Problems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="195" column="9" selection-start-line="195" selection-start-column="9" selection-end-line="195" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/combinatorics/ParametricSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/ShortestPathInMaze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-            <element signature="e#1627#1628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/RatInMaze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/KnightTour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1628#1629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/src/com/wajahat/backtracking/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapRunTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="632" column="31" selection-start-line="632" selection-start-column="31" selection-end-line="632" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/src/com/wajahat/collections/LinkedHashMapRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="91">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2430" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/testproject/src/main/java/com/wajahat/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="93" column="65" selection-start-line="93" selection-start-column="65" selection-end-line="93" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LruCache/src/com/wajahat/lrucache/LruCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/ClockApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularFace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/designpattern/clockapp/builder/CircularClockBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/FindMinDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="e#290#307#0" expanded="true" />
-            <element signature="e#692#709#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/src/MaxDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/src/FactorialZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="539" column="20" selection-start-line="539" selection-start-column="20" selection-end-line="539" selection-end-column="20" />
+          <folding>
+            <element signature="e#16099#16100#0" expanded="true" />
+            <element signature="e#16149#16150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/src/RoadRepairing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/WeightedUnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFindTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DisjointSets/src/com/wajahat/unionfind/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjlist/GraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding>
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/GraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <folding>
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/adjmatrix/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#1606#1615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/Problems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph/src/com/wajahat/graph/problems/ProblemsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="35" column="36" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="36" />
+        <state relative-caret-position="145">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HashTable/src/com/wajahat/hashtable/HashTableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="121">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Heap/src/com/wajahat/heap/BinaryHeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List/src/com/wajahat/doublylinkedlist/DoublyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#3241#3242#0" expanded="true" />
+            <element signature="e#3285#3286#0" expanded="true" />
+            <element signature="e#3329#3330#0" expanded="true" />
+            <element signature="e#3402#3403#0" expanded="true" />
+            <element signature="e#3454#3455#0" expanded="true" />
+            <element signature="e#3523#3524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/CircularQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue/src/com/wajahat/queue/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>

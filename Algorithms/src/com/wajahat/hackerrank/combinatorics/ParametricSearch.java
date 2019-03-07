@@ -20,51 +20,51 @@ import java.util.Scanner;
 // 539
 
 public class ParametricSearch {
-	
-	private static int findOptimalLength(int []ribbons, int N, int K, int maxRibbon) {
-		
-		int lo = 1;
-		int hi = maxRibbon;
-		int max = -1; // optimal max length
-		int nR = 0; // no. of ribbons possible;
-		int mid = 0;
-		while (lo <= hi) {
-			mid = lo + (hi - lo)/2;
-			nR = 0;
-			
-			for(int i = 0; i < K; i++) {
-				nR += (ribbons[i]/mid);
-			}
-			
-			if (nR >= N) {
-				lo = mid + 1;
-				if (mid > max) {
-					max = mid;
-				}
-			} else {
-				hi = mid - 1;
-			}
-		}
-		
-		return max;
-	}
-	
-	public static void main(String[] args) {
-		try (Scanner sc = new Scanner(System.in)) {
-			int K = sc.nextInt();
-			int N = sc.nextInt();
-			
-			int [] ribbons = new int[K];
-			int maxRibbon = 0;
-			for (int i = 0; i < K; i++) {
-				ribbons[i] = sc.nextInt();
-				if (ribbons[i] > maxRibbon) {
-					maxRibbon = ribbons[i];
-				}
-			}
-			
-			System.out.println(findOptimalLength(ribbons, N, K, maxRibbon));
-		}
-	}
+
+    private static int findOptimalLength(int []ribbons, int N, int K, int maxRibbon) {
+
+        int lo = 1;
+        int hi = maxRibbon;
+        int max = -1; // optimal max length
+        int nR = 0; // no. of ribbons possible;
+        int mid = 0;
+        while (lo <= hi) {
+            mid = lo + (hi - lo)/2;
+            nR = 0;
+
+            for(int i = 0; i < K; i++) {
+                nR += (ribbons[i]/mid);
+            }
+
+            if (nR >= N) {
+                lo = mid + 1;
+                if (mid > max) {
+                    max = mid;
+                }
+            } else {
+                hi = mid - 1;
+            }
+        }
+
+        return max;
+    }
+
+    public static void main(String[] args) {
+        try (Scanner sc = new Scanner(System.in)) {
+            int K = sc.nextInt();
+            int N = sc.nextInt();
+
+            int [] ribbons = new int[K];
+            int maxRibbon = 0;
+            for (int i = 0; i < K; i++) {
+                ribbons[i] = sc.nextInt();
+                if (ribbons[i] > maxRibbon) {
+                    maxRibbon = ribbons[i];
+                }
+            }
+
+            System.out.println(findOptimalLength(ribbons, N, K, maxRibbon));
+        }
+    }
 
 }

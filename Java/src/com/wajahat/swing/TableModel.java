@@ -5,8 +5,8 @@ import java.util.ArrayList;
 
 public class TableModel extends AbstractTableModel {
 
-	private static final long serialVersionUID = 1L;
-	ArrayList<String> tabledata;
+    private static final long serialVersionUID = 1L;
+    ArrayList<String> tabledata;
     String[] header;
 
     public TableModel( String[] data, String[] header ) {

@@ -3,7 +3,7 @@ package com.wajahat.hackerrank.thirtydaysofcode.solution.abs;
 import java.util.Scanner;
 
 public class Solution {
-	   
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String title = scanner.nextLine();

@@ -3,14 +3,14 @@ package com.wajahat.hackerrank.solution;
 import java.util.Scanner;
 
 public class BonApetit {
-	static int bonAppetit(int n, int k, int b, int[] ar) {
-		int bactual = 0;
-		for (int i = 0; i < n; i++) {
-			if (i != k) {
-				bactual += ar[i];
-			}
-		}
-		return b - (bactual/2);
+    static int bonAppetit(int n, int k, int b, int[] ar) {
+        int bactual = 0;
+        for (int i = 0; i < n; i++) {
+            if (i != k) {
+                bactual += ar[i];
+            }
+        }
+        return b - (bactual/2);
     }
 
     public static void main(String[] args) {
