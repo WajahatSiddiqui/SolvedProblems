@@ -10,5 +10,4 @@ public class InbuiltFunctionalInterfaceUsage {
     private static String process(String str, Function<String, String> processor) {
         return processor.apply(str);
     }
-
 }
