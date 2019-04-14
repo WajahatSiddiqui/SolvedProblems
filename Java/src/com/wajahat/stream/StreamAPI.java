@@ -3,6 +3,7 @@ package com.wajahat.stream;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

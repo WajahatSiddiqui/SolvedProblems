@@ -2,15 +2,15 @@ package com.wajahat.stack;
 
 public class Node<Key> {
 
-	Key key;
-	Node<Key> next;
-	
-	public Node(Key key) {
-		this.key = key;
-	}
+    Key key;
+    Node<Key> next;
 
-	@Override
-	public boolean equals(Object obj) {
-		return obj instanceof Integer && Integer.compare((Integer)obj, (Integer) this.key) == 0;
-	}
+    public Node(Key key) {
+        this.key = key;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return obj instanceof Integer && Integer.compare((Integer)obj, (Integer) this.key) == 0;
+    }
 }

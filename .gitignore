@@ -3,7 +3,6 @@
 *.idea/*.xml
 */.idea/*
 /out/
-*.xml
 .idea/*.xml
 # Built application files
 /*/build/

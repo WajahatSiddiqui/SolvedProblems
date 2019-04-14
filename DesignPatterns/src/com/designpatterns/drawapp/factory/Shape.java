@@ -1,6 +1,6 @@
 package com.designpatterns.drawapp.factory;
 
 interface Shape {
-	void input();
-	void draw();
+    void input();
+    void draw();
 }
