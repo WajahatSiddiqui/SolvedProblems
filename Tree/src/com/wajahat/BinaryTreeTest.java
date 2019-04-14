@@ -86,4 +86,33 @@ public class BinaryTreeTest {
     public void testLCA() {
         assertEquals(10, binaryTree.lca(root, 12, 13).data);
     }
+
+    @Test
+    public void testMirror() {
+        BinaryTree tree = new BinaryTree();
+        BinaryTree.TreeNode root = null;
+        root = tree.insert(root, 4);
+        root = tree.insert(root, 3);
+        root = tree.insert(root, 2);
+        root.left.right = new BinaryTree.TreeNode(1);
+        assertTrue(isEqual(Stream.of(2, 4, 1, 3).collect(Collectors.toList()), binaryTree.inorder(binaryTree.mirror(root))));
+
+    }
+
+    @Test
+    public void testIsMirror() {
+        BinaryTree tree = new BinaryTree();
+        BinaryTree.TreeNode root = null;
+        root = tree.insert(root, 4);
+        root = tree.insert(root, 3);
+        root = tree.insert(root, 2);
+        root.left.right = new BinaryTree.TreeNode(1);
+
+        BinaryTree.TreeNode mirror = null;
+        mirror = tree.insert(mirror, 4);
+        mirror = tree.insert(mirror, 2);
+        mirror = tree.insert(mirror, 3);
+        mirror.right.left = new BinaryTree.TreeNode(1);
+        assertTrue(tree.isMirror(root, mirror));
+    }
 }

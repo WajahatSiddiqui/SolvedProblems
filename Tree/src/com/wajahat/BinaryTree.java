@@ -188,4 +188,29 @@ public class BinaryTree {
         if (left_lca != null && right_lca != null) return root;
         return left_lca != null ? left_lca : right_lca;
     }
+
+    public TreeNode mirror(TreeNode root) {
+        if (root == null) return null;
+        mirror(root.left);
+        mirror(root.right);
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+        return root;
+    }
+
+    public boolean isMirror(TreeNode root1, TreeNode root2) {
+        if (root1 == null && root2 == null) return true;
+        if (root1 == null || root2 == null) return false;
+
+        return root1.data == root2.data
+                && isMirror(root1.left, root2. right)
+                && isMirror(root1.right, root2.left);
+    }
+
+    public String toString(TreeNode root) {
+        StringBuilder sb = new StringBuilder();
+        inorder(root).forEach(i->sb.append(i).append(" "));
+        return sb.toString();
+    }
 }
