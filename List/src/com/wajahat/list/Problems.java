@@ -152,6 +152,7 @@ public class  Problems<Key> {
             if (!s.pop().equals(slow.key)) return false;
             slow = slow.next;
         }
+        if (!s.empty()) return false;
         return true;
     }
 
@@ -209,7 +210,7 @@ public class  Problems<Key> {
         Node<Key> head1 = null, head2 = null;
         Node<Key> curr = head;
         List<Key> list = new List<>();
-        while (curr  != null) {
+        while (curr != null) {
             if ((Integer) curr.key < X) {
                 head1 = list.insertLast(head1, curr.key);
             } else {

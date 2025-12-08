@@ -19,7 +19,7 @@ public class ProducerConsumer {
             Random random = new Random();
             while (true) {
                 try {
-                    queue.put(random.nextInt(100));
+                    queue.put(random.nextInt(10));
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

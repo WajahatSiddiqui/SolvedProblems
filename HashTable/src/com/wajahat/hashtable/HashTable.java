@@ -105,7 +105,8 @@ public class HashTable<Key, Value> {
             //System.out.println(key + "%" + N +" = " + ((Integer) key) % N);
             return ((Integer) key) % N;
         } else {
-            return key.toString().length() % N;
+            // return key.toString().length() % N;
+            return key.hashCode() % N;
         }
     }
 

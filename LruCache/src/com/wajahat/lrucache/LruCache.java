@@ -29,7 +29,7 @@ public class LruCache<Key, Value> {
     /**
      * Put <Key, Value> Pair into cache
      * if the key is already present, move the key to the front of the queue
-     * if the size >= capacity remove the least recently used item from the queu
+     * if the size >= capacity remove the least recently used item from the queue
      * @param key - the key
      * @param value - the value
      */
