@@ -19,7 +19,9 @@ public class ProducerConsumer {
             Random random = new Random();
             while (true) {
                 try {
-                    queue.put(random.nextInt(10));
+                    int value = random.nextInt(10);
+                    queue.put(value);
+                    System.out.println("Producing Value: " + value + " added to the queue");
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

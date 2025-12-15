@@ -1,6 +1,15 @@
 package com.wajahat.lld;
 import java.util.concurrent.atomic.AtomicInteger;
 
+
+/**
+ *  * PROBLEMS:
+ * 1. Reset Spike Problem - All requests allowed immediately when window resets
+ * 2. Boundary Abuse - Users can game the system by timing requests at window boundaries
+ * 3. Bursty Traffic - No smoothing, allows all requests at once until limit hit
+ * 4. Thundering Herd - All blocked requests retry at same time after reset
+ * 5. Time Synchronization - Relies on system clock, vulnerable to clock skew
+ */
 public class SimpleRateLimiter {
     // State tracking
     private AtomicInteger requestCount;

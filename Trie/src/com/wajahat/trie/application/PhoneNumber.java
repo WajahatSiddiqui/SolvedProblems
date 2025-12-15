@@ -30,6 +30,7 @@ public class PhoneNumber {
         trie.insert(root, "4089211234");
         trie.insert(root, "2511501234");
         trie.insert(root, "2521501234");
+        trie.insert(root, "7760076985");
         
         
         System.out.println(" Test 25->" + trie.lookup(root,"25"));
@@ -38,6 +39,10 @@ public class PhoneNumber {
         System.out.println(" Test 4089212->" + trie.lookup(root, "4089212"));
         System.out.println(" Test 2511501234->" + trie.lookup(root, "2511501234"));
         System.out.println(" Test 2521520123411->" + trie.lookup(root, "2521520123411"));
+        System.out.println(" Test 7760076985->" + trie.lookup(root, "7760076985"));
+
+        trie.delete(root, "7760076985");
+        System.out.println(" Test 7760076985 after delete ->" + trie.lookup(root, "7760076985"));
     }
     
     public static class TrieNode {
@@ -80,13 +85,30 @@ public class PhoneNumber {
             }
             curr.end = true;
         }
+
+        public void delete(TrieNode head, String phoneNumber) {
+            String normalizedPhoneNumber = phoneNumber.trim().toLowerCase();
+            char [] chars = normalizedPhoneNumber.toCharArray();
+            if (head == null) {
+                head = new TrieNode();
+            }
+            TrieNode curr = head;
+            for (char c : chars) {
+                int index = c - '0';
+                TrieNode node = curr.children[index];
+                if (node == null) {
+                    throw new IllegalArgumentException("Unable to find the phoneNumber " + phoneNumber);
+                }
+                curr = node;
+            }
+            curr.end = false;
+        }
         
         public boolean lookup(TrieNode head, String searchStr) {
             String normalized =  searchStr.trim().toLowerCase();
             char [] chars = normalized.toCharArray();
             
             if (head == null) return false;
-            
             TrieNode curr = head;
             for (char c : chars) {
                 int index = c - '0';
