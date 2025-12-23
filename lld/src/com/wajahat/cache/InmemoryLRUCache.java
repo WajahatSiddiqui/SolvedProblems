@@ -14,24 +14,20 @@ import java.util.concurrent.locks.ReentrantLock;
  * @param <Key> the type of keys maintained by this cache
  * @param <Value> the type of mapped values
  */
-public class CacheEngine<Key, Value> {
+public class InmemoryLRUCache<Key, Value> extends GenericCache<Key, Value> {
 
     private final ReentrantLock reentrantLock = new ReentrantLock();
     private final ConcurrentHashMap<Key, Value> map;
     private final ConcurrentLinkedDeque<Key> queue;
-    private final int capacity;
     private static final int DEFAULT_CAPACITY = 10;
 
-    public CacheEngine() {
+    public InmemoryLRUCache() {
         this(DEFAULT_CAPACITY);
     }
 
-    public CacheEngine(int capacity) {
-        if (capacity <= 0) {
-            throw new IllegalArgumentException("Capacity must be greater than 0");
-        }
-        this.capacity = capacity;
-        this.map = new ConcurrentHashMap<>(capacity);
+    public InmemoryLRUCache(int capacity) {
+        super(capacity);
+        this.map = new ConcurrentHashMap<>(this.CAPACITY);
         this.queue = new ConcurrentLinkedDeque<>();
     }
 
@@ -42,6 +38,7 @@ public class CacheEngine<Key, Value> {
      * @param key the key whose associated value is to be returned
      * @return the value associated with the key, or null if the key is not present
      */
+    @Override
     public Value get(Key key) {
         if (key == null) return null;
         
@@ -53,8 +50,10 @@ public class CacheEngine<Key, Value> {
             }
             // Move key to front (most recently used) without calling put()
             // to avoid unnecessary capacity checks and potential evictions
-            queue.remove(key);
-            queue.addFirst(key);
+            if (queue.isEmpty() || !queue.getFirst().equals(key)) {
+                queue.remove(key);
+                queue.addFirst(key);
+            }
             return value;
         } finally {
             reentrantLock.unlock();
@@ -69,6 +68,7 @@ public class CacheEngine<Key, Value> {
      * @param key key with which the specified value is to be associated
      * @param value value to be associated with the specified key
      */
+    @Override
     public void put(Key key, Value value) {
         if (key == null) {
             throw new IllegalArgumentException("Key cannot be null");
@@ -83,7 +83,7 @@ public class CacheEngine<Key, Value> {
                 queue.remove(key);
             } else {
                 // Only evict if we're adding a new key and at capacity
-                if (map.size() >= capacity) {
+                if (map.size() >= CAPACITY) {
                     Key lruKey = queue.pollLast();
                     if (lruKey != null) {
                         map.remove(lruKey);
@@ -105,28 +105,17 @@ public class CacheEngine<Key, Value> {
      * @param key the key to be removed
      * @return the value that was associated with the key, or null if key was not present
      */
-    public Value evict(Key key) {
-        if (key == null) return null;
+    @Override
+    public void evict(Key key) {
+        if (key == null) return;
         
         reentrantLock.lock();
         try {
-            Value value = map.remove(key);
+            map.remove(key);
             queue.remove(key);
-            return value;
         } finally {
             reentrantLock.unlock();
         }
-    }
-
-    /**
-     * Checks if the cache contains the specified key.
-     * 
-     * @param key the key to check
-     * @return true if the cache contains the key, false otherwise
-     */
-    public boolean contains(Key key) {
-        if (key == null) return false;
-        return map.containsKey(key);
     }
 
     /**
@@ -167,16 +156,15 @@ public class CacheEngine<Key, Value> {
             StringBuilder sb = new StringBuilder();
             sb.append("Queue => ").append(queue).append("\n")
               .append("Map Entries => ").append(map)
-              .append("\nSize: ").append(size()).append("/").append(capacity);
+              .append("\nSize: ").append(size()).append("/").append(CAPACITY);
             return sb.toString();
         } finally {
             reentrantLock.unlock();
         }
     }
 
-
     public static void main(String args[]) {
-        CacheEngine<String, Integer> cacheEngine = new CacheEngine<>(4);
+        InmemoryLRUCache<String, Integer> cacheEngine = new InmemoryLRUCache<String, Integer>(4);
         cacheEngine.put("a", 10);
         cacheEngine.put("b", 20);
         cacheEngine.put("c", 30);
@@ -188,12 +176,15 @@ public class CacheEngine<Key, Value> {
 
         System.out.println("Cache Entries: " + cacheEngine);
 
-        System.out.print("get the value for b -> " + cacheEngine.get("b"));
+        System.out.print("get the value for b -> " + cacheEngine.get("b") + "\n");
+        System.out.println("Cache Entries: " + cacheEngine);
+
+        System.out.println("Evicting d -> "); 
+        cacheEngine.evict("d");
         System.out.println("Cache Entries: " + cacheEngine);
 
         cacheEngine.clear();
         System.out.println("Cache Entries: " + cacheEngine);
 
-    }
-    
+    }    
 }
