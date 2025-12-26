@@ -1,14 +1,14 @@
 package com.wajahat.logger;
-
 public enum LogLevel {
-    INFO(1), DEBUG(2), WARNING(3), ERROR(4);
-    private final int level;
-    
-    LovelLevel(int value) {
-        this.level = value;
+    INFO(0), DEBUG(1), WARN(2), ERROR(3), FATAL(4);
+
+    private final int priority;
+
+    LogLevel(int priority) {
+        this.priority = priority;
     }
 
-    public int getLevel() {
-        return this.level;
+    public int getPriority() {
+        return priority;
     }
 }

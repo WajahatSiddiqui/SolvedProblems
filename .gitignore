@@ -41,3 +41,4 @@ local.properties
 ehthumbs.db
 Thumbs.db
 .vscode/
+*.log
